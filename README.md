@@ -12,9 +12,8 @@ Code and analysis for the manuscript "T cell receptor repertoire signatures asso
 │   ├── main
 │   ├── intermediate_files
 │   └── output
-└── results
-    ├── figures
-    └── tables
+├── figures
+└── tables
 
 ```
 The code is organized into the following files:
