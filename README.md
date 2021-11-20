@@ -2,10 +2,24 @@
 
 Code and analysis for the manuscript "T cell receptor repertoire signatures associated with COVID-19 severity"
 
+## Project Structure
+```
+.
+├── code
+│   ├── notebooks
+│   └── scripts
+├── data
+│   ├── main
+│   ├── intermediate_files
+│   └── output
+└── results
+    ├── figures
+    └── tables
+
+```
 The code is organized into the following folders:
   
-+ `notebooks`: which contains the actual experiments. They should be ran top to bottom.
-In certain cases, they include quite computationally expensive, and some pre-processed files are
++ `notebooks`: contains the actual experiments. Pre-processed files are
   already included in the `data/` folder so that these can be skipped.
   
 + `scripts`: which contain data cleaning scripts and supplemental experiments.
