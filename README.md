@@ -6,8 +6,8 @@ Code and analysis for the manuscript "T cell receptor repertoire signatures asso
 ```
 .
 ├── code
-│   ├── notebooks
-│   └── scripts
+│   ├── ML_models.py
+│   └── 
 ├── data
 │   ├── main
 │   ├── intermediate_files
@@ -17,10 +17,6 @@ Code and analysis for the manuscript "T cell receptor repertoire signatures asso
     └── tables
 
 ```
-The code is organized into the following folders:
-  
-+ `notebooks`: contains the actual experiments. Pre-processed files are
-  already included in the `data/` folder so that these can be skipped.
-  
-+ `scripts`: which contain data cleaning scripts and supplemental experiments.
+The code is organized into the following files:
+
 
