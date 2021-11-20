@@ -22,12 +22,13 @@ CD4+ and CD8+ T cell repertoires for COVID patients and healthy donors (HD) were
 
 ## Dependencies
 
+```
 Python  3.8.6
 numpy 1.12.1
 pandas 1.2.4
 scikit-learn 0.23.1
 Plotly 5.1.0
-
+```
 ## Pipeline
 
 ## Contact
