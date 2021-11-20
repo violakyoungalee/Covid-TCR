@@ -31,6 +31,13 @@ Plotly 5.1.0
 ```
 ## Pipeline
 
+#### Kmer Matrix Generation
+A list of all the overlapping substrings of k (k = 3, 4, 5, 6) amino acids in the CDR3 region in the CD4 and CD8+ T cell repertoire of healthy donor and covid-19 patients was generated. From each individual patient in our dataset, the frequency of each k-mer in the list was determined. The frequency counts of each kmer of the patients was organized as a data matrix where rows corresponded to patient IDs and columns corresponded to the frequency counts of the kmers found in each patient. A data column representing the patient’s disease phenotype was included.
+
+#### Classical Machine Learning 
+
+Training and Evaluating Machine Learning Models: Five machine learning algorithms were selected for training on kmer frequency matrix for 32 different permutations: for CD4+ and CD8+ TCR datasets, classification of HD vs. Mild, HD vs. Moderate, HD vs. Severe, HD vs. All COVID were trained for 3mers, 4mers, 5mers and 6mers. These algorithms were Random Forest, Support Vector Machine, Gaussian Naïve Bayes (GNB), Gradient Boosting (GB) and K-Nearest Neighbors (KNN). Testing and training set was partitioned with a 80:20 ratio using sklearn’s test_train_split function. Training features included all kmers represented in the CD8+ TCR repertoire’s alpha chain CDR3 of all patients in the dataset. Five-fold cross-validation was performed within the train set with 100 repetitions (5 x 100) using sklearn’s RepeatedStratifiedKFold function. Performance on the validation set was used to generate ROC plots and performance on test and validation sets were exported. 
+
 ## Contact
 
 Please see manuscript for further details. For any questions, contact jonathan [dot] park [at] yale [dot] edu.
