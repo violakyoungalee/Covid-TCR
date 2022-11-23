@@ -7,13 +7,29 @@ Code and analysis for the manuscript "Machine learning identifies T cell recepto
 ## Project Structure
 ```
 .
-├── Standardized Data
 ├── Data preprocessing scripts
+|   |-- Overarching preprocessing R script
+|   |-- Dataset-specific preprocessing files
+|   |-- Normalization: all features
+|   `-- Normalization: VDJtools
 ├── Immune repertoire statistics scripts
+|   |-- Clonal proportions
+|   |-- Immunarch analyses
+|   `-- Master stats plots
 ├── Kmer analysis scripts
-├── Motif analysis scripts: GLIPH2 and OLGA for specificity analysis
-├── Single-cell transcriptome analysis scripts
+|   |-- ISB-S Dataset Kmer Analysis
+|   `-- AB Dataset Kmer Analysis
+├── Motif analysis: GLIPH2 and OLGA for specificity analysis
+|   |-- OLGA 
+|   |-- GLIPH2
+|   |-- Cluster analysis: OLGA results
+|   `-- Cluster analysis: GLIPH2 results
+├── Single-cell transcriptome analysis
+|   |-- CD4 T cells' transcriptome profiles
+|   `-- CD8 T cells' transcriptome profiles
 └── Machine Learning Models
+    |-- CD4 TCR Models
+    `-- CD8 TCR Models
 
 ```
 ## Data acquisition
