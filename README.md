@@ -21,8 +21,6 @@ Code and analysis for the manuscript "Machine learning identifies T cell recepto
 |   |-- ISB-S Dataset Kmer Analysis
 |   `-- AB Dataset Kmer Analysis
 ├── Motif analysis: GLIPH2 and OLGA for specificity analysis
-|   |-- OLGA 
-|   |-- GLIPH2
 |   |-- Cluster analysis: OLGA results
 |   `-- Cluster analysis: GLIPH2 results
 ├── Single-cell transcriptome analysis
