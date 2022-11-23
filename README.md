@@ -10,7 +10,7 @@ Code and analysis for the manuscript "Machine learning identifies T cell recepto
 ├── Data preprocessing scripts
 ├── Immune repertoire statistics scripts
 ├── Kmer analysis scripts
-├── Motif analysis scripts: GLIPH2
+├── Motif analysis scripts: GLIPH2 and OLGA
 ├── Single-cell transcriptome analysis scripts
 └── Machine Learning Models
 
