@@ -6,7 +6,7 @@ Code and analysis for the manuscript "Machine learning identifies T cell recepto
 
 ## Project Structure
 
-```bash
+```
 .
 ├── Data preprocessing scripts
 |   |-- Overarching preprocessing R script
