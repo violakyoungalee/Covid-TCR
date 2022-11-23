@@ -5,7 +5,8 @@ Jonathan J. Park, Kyoung A V. Lee, Stanley Z. Lam, Kat Moon, Zhenhao Fang, Sidi 
 Code and analysis for the manuscript "Machine learning identifies T cell receptor repertoire signatures associated with COVID-19 severity"
 
 ## Project Structure
-```
+
+```bash
 .
 ├── Data preprocessing scripts
 |   |-- Overarching preprocessing R script
@@ -30,7 +31,6 @@ Code and analysis for the manuscript "Machine learning identifies T cell recepto
 └── Machine Learning Models
     |-- CD4 TCR Models
     `-- CD8 TCR Models
-
 ```
 ## Data acquisition
 
