@@ -1,4 +1,0 @@
-DataFiles
-
-Archive.zip contains raw and cleaned data for CD8 TCR repertoire.
-Archive_CD8.zip contains raw and cleaned data for CD4 TCR repertoire.
