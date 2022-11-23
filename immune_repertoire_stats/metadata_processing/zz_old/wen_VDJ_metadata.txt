@@ -1,0 +1,16 @@
+"Sample"	"d_cond"	"sex"	"age"	"race"
+"wen_VDJ_HD_1"	"HD"	"M"	NA	NA
+"wen_VDJ_LRS2"	"moderate"	"M"	NA	NA
+"wen_VDJ_HD_2"	"HD"	"M"	NA	NA
+"wen_VDJ_HD_5"	"HD"	"F"	NA	NA
+"wen_VDJ_LRS5"	"severe"	"F"	NA	NA
+"wen_VDJ_HD_4"	"HD"	"F"	NA	NA
+"wen_VDJ_ERS3"	"severe"	"F"	NA	NA
+"wen_VDJ_HD_3"	"HD"	"F"	NA	NA
+"wen_VDJ_ERS5"	"severe"	"F"	NA	NA
+"wen_VDJ_LRS4"	"severe"	"F"	NA	NA
+"wen_VDJ_ERS4"	"severe"	"F"	NA	NA
+"wen_VDJ_LRS3"	"moderate"	"M"	NA	NA
+"wen_VDJ_ERS2"	"moderate"	"M"	NA	NA
+"wen_VDJ_ERS1"	"moderate"	"M"	NA	NA
+"wen_VDJ_LRS1"	"severe"	"M"	NA	NA

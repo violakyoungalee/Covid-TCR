@@ -1,0 +1,16 @@
+Sample	d_cond	sex	age	race
+wen_VDJ_HD_1	HD	Male	NA	NA
+wen_VDJ_LRS2	moderate	Male	NA	NA
+wen_VDJ_HD_2	HD	Male	NA	NA
+wen_VDJ_HD_5	HD	Female	NA	NA
+wen_VDJ_LRS5	severe	Female	NA	NA
+wen_VDJ_HD_4	HD	Female	NA	NA
+wen_VDJ_ERS3	severe	Female	NA	NA
+wen_VDJ_HD_3	HD	Female	NA	NA
+wen_VDJ_ERS5	moderate	Female	NA	NA
+wen_VDJ_LRS4	severe	Female	NA	NA
+wen_VDJ_ERS4	severe	Female	NA	NA
+wen_VDJ_LRS3	moderate	Male	NA	NA
+wen_VDJ_ERS2	moderate	Male	NA	NA
+wen_VDJ_ERS1	moderate	Male	NA	NA
+wen_VDJ_LRS1	severe	Male	NA	NA

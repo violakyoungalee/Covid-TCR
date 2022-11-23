@@ -1,0 +1,89 @@
+Sample	d_cond	sex	age	race
+Subject_22	Healthy	Female	46	Asian or Pacific Islander
+Subject_63	Healthy	Male	57	Hispanic
+Subject_18	Healthy	Female	38	Asian or Pacific Islander
+Subject_106	Healthy	Male	51	Black or African American
+Subject_14	Healthy	Male	66	Asian or Pacific Islander
+Subject_50	Healthy	Female	57	Caucasian
+Subject_94	Healthy	Male	49	Black or African American
+Subject_91	Healthy	Male	23	Black or African American
+Subject_55	Healthy	Female	65	Caucasian
+Subject_155	Healthy	Male	30	Asian or Pacific Islander
+Subject_61	Healthy	Male	21	Hispanic
+Subject_42	Healthy	Female	57	Caucasian
+Subject_13	Healthy	Male	32	Asian or Pacific Islander
+Subject_41	Healthy	Female	73	Caucasian
+Subject_95	Healthy	Male	30	Black or African American
+Subject_64	Healthy	Male	51	Hispanic
+Subject_67	Healthy	Male	51	Hispanic
+Subject_79	Healthy	Male	36	Hispanic
+Subject_39	Healthy	Female	30	Asian or Pacific Islander
+Subject_47	Healthy	Male	56	Caucasian
+Subject_84	Healthy	Male	59	Black or African American
+Subject_19	Healthy	Male	20	Asian or Pacific Islander
+Subject_156	Healthy	Female	34	Asian or Pacific Islander
+Subject_102	Healthy	Male	30	Black or African American
+Subject_86	Healthy	Male	32	Black or African American
+Subject_158	Healthy	Female	36	Hispanic
+Subject_15	Healthy	Male	30	Asian or Pacific Islander
+Subject_99	Healthy	Female	33	Black or African American
+Subject_98	Healthy	Male	52	Black or African American
+Subject_44	Healthy	Female	57	Caucasian
+Subject_151	Healthy	Female	55	Caucasian
+Subject_49	Healthy	Female	72	Caucasian
+Subject_73	Healthy	Male	27	Hispanic
+Subject_58	Healthy	Female	40	Caucasian
+Subject_52	Healthy	Male	38	Hispanic
+Subject_56	Healthy	Male	30	Caucasian
+Subject_92	Healthy	Female	29	Black or African American
+Subject_54	Healthy	Female	59	Caucasian
+Subject_152	Healthy	Female	38	Caucasian
+Subject_74	Healthy	Male	31	Hispanic
+Subject_87	Healthy	Male	20	Black or African American
+Subject_12	Healthy	Female	30	Asian or Pacific Islander
+Subject_27	Healthy	Female	34	Asian or Pacific Islander
+Subject_65	Healthy	Male	24	Hispanic
+Subject_69	Healthy	Male	55	Hispanic
+Subject_43	Healthy	Female	21	Caucasian
+Subject_48	Healthy	Female	61	Hispanic
+Subject_17	Healthy	Female	21	Asian or Pacific Islander
+Subject_66	Healthy	Female	25	Hispanic
+Subject_157	Healthy	Male	62	Caucasian
+Subject_105	Healthy	Female	50	Black or African American
+Subject_59	Healthy	Female	32	Caucasian
+Subject_96	Healthy	Male	63	Black or African American
+Subject_71	Healthy	Female	31	Hispanic
+Subject_154	Healthy	Female	24	Caucasian
+Subject_81	Healthy	Male	40	Caucasian
+Subject_46	Healthy	Male	63	Caucasian
+Subject_100	Healthy	Male	36	Black or African American
+Subject_153	Healthy	Male	32	NA
+Subject_93	Healthy	Male	37	Black or African American
+Subject_83	Healthy	Male	47	Black or African American
+Subject_104	Healthy	Male	29	Black or African American
+Subject_78	Healthy	Male	20	Hispanic
+Subject_57	Healthy	Female	60	Caucasian
+Subject_70	Healthy	Male	29	Hispanic
+Subject_16	Healthy	Female	68	Asian or Pacific Islander
+Subject_24	Healthy	Female	24	Asian or Pacific Islander
+Subject_26	Healthy	Female	50	Asian or Pacific Islander
+Subject_53	Healthy	Female	40	Caucasian
+Subject_76	Healthy	Male	67	Hispanic
+Subject_51	Healthy	Male	78	Caucasian
+Subject_72	Healthy	Female	31	Hispanic
+Subject_68	Healthy	Male	35	Hispanic
+Subject_60	Healthy	Female	57	Caucasian
+Subject_90	Healthy	Male	49	Black or African American
+Subject_40	Healthy	Male	40	Asian or Pacific Islander
+Subject_101	Healthy	Male	26	Black or African American
+Subject_82	Healthy	Male	55	Black or African American
+Subject_97	Healthy	Female	43	Black or African American
+Subject_80	Healthy	Male	55	Caucasian
+Subject_88	Healthy	Male	64	Black or African American
+Subject_103	Healthy	Male	35	Black or African American
+Subject_77	Healthy	Male	51	Hispanic
+Subject_75	Healthy	Male	32	Hispanic
+Subject_85	Healthy	Male	43	Black or African American
+Subject_45	Healthy	Female	53	Caucasian
+Subject_89	Healthy	Male	34	Black or African American
+Subject_62	Healthy	Male	42	Hispanic

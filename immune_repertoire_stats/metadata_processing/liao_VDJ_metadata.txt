@@ -1,0 +1,10 @@
+"Sample"	"d_cond"	"sex"	"age"	"race"
+"liao_VDJ_C141"	"moderate"	"M"	36	NA
+"liao_VDJ_C142"	"moderate"	"F"	37	NA
+"liao_VDJ_C143"	"severe"	"M"	66	NA
+"liao_VDJ_C144"	"moderate"	"M"	35	NA
+"liao_VDJ_C145"	"severe"	"M"	62	NA
+"liao_VDJ_C146"	"severe"	"M"	63	NA
+"liao_VDJ_C148"	"severe"	"F"	65	NA
+"liao_VDJ_C149"	"severe"	"F"	57	NA
+"liao_VDJ_C152"	"severe"	"M"	46	NA

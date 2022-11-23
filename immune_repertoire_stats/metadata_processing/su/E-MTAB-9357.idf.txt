@@ -1,0 +1,35 @@
+Comment[ArrayExpressAccession]	E-MTAB-9357
+MAGE-TAB Version	1.1
+Comment[Submitted Name]	Multi-omic analysis resolves coordinated immune responses to mild, moderate and severe COVID-19					
+Investigation Title	Multi-omic analysis resolves coordinated immune responses to mild, moderate and severe COVID-19
+Experiment Description	This study utilizes multi-omic biological data to perform deep immunophenotyping on the major immune cell classes in COVID-19 patients. 10X Genomics Chromium Single Cell Kits were used with Biolegend TotalSeq-C human antibodies to gather single-cell transcriptomic, surface protein, and TCR/BCR sequence information from 254 COVID-19 blood draws (a draw near diagnosis (-BL) and a draw a few days later (-AC)) and 16 healthy donors.
+Experimental Design	disease state design
+Experimental Design Term Source REF	EFO
+Experimental Design Term Accession Number	EFO:0001756
+Experimental Factor Name	disease	sampling time point
+Experimental Factor Type	disease	sampling time point
+Experimental Factor Term Source REF	EFO
+Experimental Factor Term Accession Number	EFO_0000408
+Person Last Name	Chen	Su
+Person First Name	Daniel	Yapeng
+Person Mid Initials
+Person Email	daniel.chen@isbscience.org	yapeng.su@isbscience.org
+Person Phone
+Person Fax
+Person Address	401 Terry Avenue North Seattle, WA 98109-5263	401 Terry Avenue North Seattle, WA 98109-5263
+Person Affiliation	Heath Lab, Institute for Systems Biology Department of Informatics, University of Washington Department of Microbiology, University of Washington	Heath Lab, Institute for Systems Biology
+Person Roles	data analyst;submitter	experiment performer;submitter
+Public Release Date	2020-10-17
+Protocol Name	P-MTAB-99038	P-MTAB-99039	P-MTAB-99040	P-MTAB-99041	P-MTAB-99042	P-MTAB-99043
+Protocol Type	sample collection protocol	nucleic acid extraction protocol	nucleic acid library construction protocol	nucleic acid sequencing protocol	normalization data transformation protocol	high throughput sequence alignment protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0005518	EFO_0002944	EFO_0004184	EFO_0004170	EFO_0003816	EFO_0004917
+Protocol Description	Plasma and PBMC isolation were conducted with standard protocols from Bloodworks Northwest (Seattle, WA). Patient blood were collected in BD Vacutainer (EDTA) tubes (Becton, Dickinson and Company, Franklin Lakes, NJ). Plasma fractions were collected after centrifuged at 800 x g at 4˚C for 10 min, aliquoted and stored until use at -80˚C. The rest of the blood were diluted with PBS (pH7.2) to 2X of original volume and layered over 15 ml Ficoll (GE Healthcare, Waukesha, WI) in SepMate-50 tubes (Vancouver, BC). After centrifuged at 800 x g for 15 min at room temperature, the PBMC layer (did not include granulocytes (such as neutrophils)) was poured into a 50 ml conical tube. The cells were washed twice with autoMACS Rinsing Solution (Miltenyi Biotec, Auburn, CA) and centrifuge at 250 x g for 10 min, at RT. PBMC pellets were gently resuspend in 5 ml Rinsing Solution and a 5 µl aliquot was diluted 1:10 v/v for cell counting. Cells in 18 µl of diluted samples were first mixed with 2 µl of Acridine Orange / Propidium Iodide Stain (Logos Biosystems, Annandale, VA), 10 µl was then loaded to a PhotonSlide (Logos Biosystems) and counted in a LUNA FL Dual Fluorescence cell counter (Logos Bioystems). Cryopreservation freeze media CryoStor CS-10 (Biolife Solutions, Bothell, WA) was slowly added to make a concentration of 2.5 million PBMC/ml. Cells were aliquoted in Cryotube vials (ThermoFisher, Waltham, MA) and frozen in CoolCell LX Cell Freezing Container (Corning, Corning, NY) at -80˚C for at least 2 hours before stored until use in LN.	Chromium Single Cell Kits (10x Genomics) were utilized to analyze the transcriptomic, surface protein levels and TCR/BCR sequences simultaneously from the same cell. Experiments were performed according to manufacturer’s instructions.	Briefly, cryopreserved PBMCs were thawed and 1X red blood cell lysis solution (Biolegend) was used to lyse any remaining red blood cells in the PBMC samples. Cells were stained with custom TotalSeq-C human antibodies (Biolegend) before loaded onto a Chromium Next GEM chip G. Cells were lysed for reverse transcription and complementary DNA (cDNA) amplification in the Chromium Controller (10X Genomics). The polyadenylated transcripts were reverse-transcribed inside each gel bead-in-emulsion afterwards. Full-length cDNA along with cell barcode identifiers were PCR-amplified and sequencing libraries were prepared and normalized. Kits used are as follows: Chromium Next GEM Single Cell 5' Library and Gel Bead Kit v1.1, 16 rxns --- Cat: 1000165 | Chromium Next GEM Chip G Single Cell Kit, 48 rxns --- Cat: 1000120 | Chromium Single Cell V(D)J Enrichment Kit, Human T Cell, 96 rxns --- Cat: 1000005 | Chromium Single Cell 5' Library Construction Kit, 16 rxns --- Cat: 1000020 | Chromium Single Cell 5' Feature Barcode Library Kit, 16 rxns --- Cat: 1000080 | Single index Kit T Set A, 96 rxns --- Cat: 1000213 | Single index Kit N Set A, 96 rxns --- Cat: 1000212	The constructed library was sequenced on Novaseq platform (Illumina).	Data was demultiplexed utilizing cellSNP and vireo's bayesian SNP-based demultiplexing methods. Transcriptomic and surface protein data was normalized to 1e6 counts per cell (CPM normalization) and then a log1p (natural log) transformation using methods from the SCANpy package. TCR data was integrated with RNA data via AnnData concetanation and TCRs were loaded and analyzed via the read_10x_vdj method from the SCIRpy package.	Raw FASTQ sequences from transcriptomic and surface protein data were processed and aligned to the GRCh38 human reference genome via the Cell Ranger Single-Cell Software Suite (version 3.0.0, 10x Genomics). Raw FASTQ sequences from TCR data were processed and aligned to the GRCh38 human VDJ reference genome via the Cell Ranger Single-Cell Software Suite (version 3.1.0, 10x Genomics).
+Protocol Hardware				Illumina NovaSeq 6000
+Protocol Software
+Term Source Name	EFO
+Term Source File	http://www.ebi.ac.uk/efo/
+Term Source Version
+Comment[TemplateType]	Human - High-throughput sequencing
+Comment[AEExperimentType]	RNA-seq of coding RNA from single cells
+SDRF File	E-MTAB-9357.sdrf.txt

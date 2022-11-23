@@ -1,0 +1,1487 @@
+Sample	d_cond	sex	age	race
+BS-GIGI_61-replacement_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+860011221_TCRB	COVID-19 Positive	Male	64 Years	Hispanic
+1246-BM-1050_TCRB				
+ADIRP0000106_TCRB	COVID-19 Positive	Female	41 Years	Hispanic
+BS-HS-185_TCRB				
+BS-HS-187_TCRB				
+860011232_TCRB	COVID-19 Positive	Female	53 Years	Hispanic
+INCOV033-AC-3_TCRB	COVID-19 Positive	Female	88 Years	Caucasian
+INCOV026-AC-3_TCRB	COVID-19 Positive	Male	33 Years	Unknown racial group
+KH20-11647_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+860011219_TCRB	COVID-19 Positive	Female	87 Years	Caucasian
+INCOV040-BL-3_TCRB	COVID-19 Positive	Female	76 Years	Caucasian
+KHBR20-00124_TCRB	COVID-19 Positive	Male	57 Years	Caucasian
+7736BW_20200518_Unenr_gDNA_ImmunoSEQ_TCRB	COVID-19 Positive	Male	44 Years	Unknown racial group
+INCOV028-AC-3_TCRB	COVID-19 Positive	Male	64 Years	Asian or Pacific Islander
+550042239_TCRB	COVID-19 Positive	Female	68 Years	Caucasian
+BS-GIGI_62-replacement_TCRB	COVID-19 Positive	Male	69 Years	Caucasian
+KH20-09704_TCRB	COVID-19 Positive	Female	62 Years	
+KHBR20-00108_TCRB	COVID-19 Positive	Male	58 Years	Caucasian
+1025_TCRB				
+BS-GIGI_77-replacement_TCRB	COVID-19 Positive	Male	64 Years	Caucasian
+INCOV078-AC-3_TCRB	COVID-19 Positive	Female	58 Years	Mixed racial group
+KH20-09959_TCRB	COVID-19 Positive	Female	65 Years	Caucasian
+860011225_TCRB	COVID-19 Positive	Male	82 Years	Caucasian
+860011201_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+BS-SPECIAL-1_TCRB				
+BS-HS-206_TCRB				
+1566265BW_TCRB	COVID-19 Positive	Female	33 Years	Caucasian
+KH20-11655_TCRB	COVID-19 Positive	Female	83 Years	
+BS-HS-138_TCRB				
+INCOV068-AC-3_TCRB	COVID-19 Positive	Female	66 Years	Caucasian
+1016_TCRB				
+KHBR20-00109_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+KH20-11648_TCRB	COVID-19 Positive	Female	85 Years	Caucasian
+KH20-09691_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+BS-HS-54_TCRB				
+860011116_TCRB	COVID-19 Positive	Female	52 Years	Caucasian
+INCOV087-BL-3_TCRB	COVID-19 Positive	Male	56 Years	Unknown racial group
+KHBR20-00119_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+BS-HS-100_TCRB				
+BS-GIGI_49-replacement_TCRB	COVID-19 Positive	Female	56 Years	Caucasian
+KH20-11649_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+KH20-09996_TCRB	COVID-19 Positive	Female	75 Years	Caucasian
+ADIRP0000362_TCRB	COVID-19 Positive	Female	51 Years	Caucasian
+1132289BW_TCRB	COVID-19 Positive	Female	65 Years	Caucasian
+KHBR20-00141_TCRB	COVID-19 Positive	Female	65 Years	Black or African American
+ADIRP0000423_TCRB	COVID-19 Positive	Female	32 Years	Asian or Pacific Islander
+INCOV003-BL-5_TCRB	COVID-19 Positive	Male	64 Years	Caucasian
+KHBR20-00122_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+KH20-09676_TCRB	COVID-19 Positive	Male	48 Years	Black or African American
+BS-HS-55_TCRB				
+BS-EQ-0014-T2-replacement_TCRB	COVID-19 Positive	Male	55 Years	Caucasian
+550040521_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+ADIRP0002104_TCRB	COVID-19 Positive	Male	49 Years	Black or African American
+INCOV078-BL-3_TCRB	COVID-19 Positive	Female	58 Years	Mixed racial group
+ADIRP0000057_TCRB	COVID-19 Positive	Female	49 Years	Mixed racial group
+860011318_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+INCOV084-BL-3_TCRB	COVID-19 Positive	Female	57 Years	Asian or Pacific Islander
+550042210_TCRB	COVID-19 Positive	Female	52 Years	Black or African American
+ADIRP0001321_TCRB		Male	41 Years	Asian or Pacific Islander
+INCOV018-BL-5_TCRB	COVID-19 Positive	Male	69 Years	Caucasian
+KH20-11299_TCRB	COVID-19 Positive	Female	62 Years	Hispanic
+ADIRP0001427_TCRB	COVID-19 Positive	Female	37 Years	Unknown racial group
+KH20-11695_TCRB	COVID-19 Positive	Male	66 Years	Black or African American
+550042567_TCRB	COVID-19 Positive	Male	83 Years	Caucasian
+BS-EQ-0026-T0-replacement_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+BS-SPECIAL-3_TCRB				
+ADIRP0001764_TCRB	COVID-19 Positive	Female	64 Years	Caucasian
+KH20-09749_TCRB	COVID-19 Positive	Male	82 Years	Caucasian
+860011330_TCRB	COVID-19 Positive	Female	56 Years	Caucasian
+BS-GIGI_45-replacement_TCRB		Female	35 Years	Caucasian
+1566449BW_TCRB	COVID-19 Positive	Female	34 Years	
+BS-EQ-07-T1-replacement_TCRB		Male	61 Years	Caucasian
+860011123_TCRB	COVID-19 Positive	Male	52 Years	Hispanic
+550042547_TCRB	COVID-19 Positive	Male	85 Years	Caucasian
+BS-EQ-1-T2-replacement_TCRB	COVID-19 Positive	Male	54 Years	Caucasian
+860011261_TCRB	COVID-19 Positive	Male	29 Years	Caucasian
+1020_TCRB				
+860011215_TCRB	COVID-19 Positive	Male	58 Years	Caucasian
+INCOV068-BL-3_TCRB	COVID-19 Positive	Female	66 Years	Caucasian
+INCOV005-AC-5_TCRB	COVID-19 Positive	Male	75 Years	Caucasian
+KH20-09654_TCRB	COVID-19 Positive	Female	55 Years	Caucasian
+ADIR0000093_TCRB	COVID-19 Positive	Female	38 Years	Caucasian
+ADIRP0000115_TCRB		Male	47 Years	Hispanic
+KHBR20-00148_TCRB	COVID-19 Positive	Female	64 Years	Caucasian
+860011229_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+BS-EQ-29-T1-replacement_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+3602BW_TCRB	COVID-19 Positive	Female	48 Years	Mixed racial group
+ADIRP0000387_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+1011-BE-471_TCRB				
+KHBR20-00118_TCRB	COVID-19 Positive	Male	89 Years	Black or African American
+INCOV076-AC-3_TCRB	COVID-19 Positive	Female	47 Years	Asian or Pacific Islander
+KHBR20-00081_TCRB	COVID-19 Positive	Male	52 Years	Hispanic
+KH20-09955_TCRB	COVID-19 Positive	Male	67 Years	Caucasian
+KH20-09669_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+INCOV059-AC-3_TCRB	COVID-19 Positive	Female	82 Years	Caucasian
+KH20-09665_TCRB	COVID-19 Positive	Male	67 Years	Black or African American
+KHBR20-00139_TCRB	COVID-19 Positive	Male	57 Years	Black or African American
+1568094BW_TCRB	COVID-19 Positive	Female	43 Years	Caucasian
+KH20-09962_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+BS-HS-181_TCRB				
+BS-HS-155_TCRB				
+ADIRP0001207_TCRB	COVID-19 Positive	Female	49 Years	Caucasian
+KH20-11688_TCRB	COVID-19 Positive	Female	78 Years	Caucasian
+KH20-09752_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+ADIRP0002505_TCRB		Female	65 Years	Caucasian
+1010-MG-251_TCRB				
+1019_TCRB				
+860011492_TCRB	COVID-19 Positive	Female	54 Years	Caucasian
+KHBR20-00164_TCRB	COVID-19 Positive	Female	23 Years	Black or African American
+INCOV025-AC-3_TCRB	COVID-19 Positive	Female	67 Years	Caucasian
+3282BW_20200413_Unenr_gDNA_ImmunoSEQ_TCRB	COVID-19 Positive	Female	58 Years	Unknown racial group
+INCOV063-BL-3_TCRB	COVID-19 Positive	Female	81 Years	Caucasian
+ADIRP0001070_TCRB	COVID-19 Positive	Female	51 Years	Caucasian
+860011126_TCRB	COVID-19 Positive	Female	67 Years	Caucasian
+KH20-09970_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+ADIRP0001253_TCRB		Female	30 Years	Hispanic
+KH20-09720_TCRB	COVID-19 Positive	Female	83 Years	Caucasian
+550042631_TCRB	COVID-19 Positive	Female	85 Years	Caucasian
+550043997_TCRB	COVID-19 Positive	Male	75 Years	Caucasian
+1567127BW_TCRB	COVID-19 Positive	Female	44 Years	Caucasian
+860011217_TCRB	COVID-19 Positive	Male	87 Years	Caucasian
+ADIRP0000137_TCRB	COVID-19 Positive	Female	33 Years	Mixed racial group
+860011236_TCRB	COVID-19 Positive	Male	30 Years	Caucasian
+KH20-11641_TCRB	COVID-19 Positive	Male	70 Years	Black or African American
+1036_TCRB				
+BS-GIGI_46-replacement_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+860011262_TCRB	COVID-19 Positive	Male	28 Years	Caucasian
+INCOV017-CV-3_TCRB	COVID-19 Positive	Male	57 Years	Asian or Pacific Islander
+860011130_TCRB	COVID-19 Positive	Male	59 Years	Caucasian
+KH20-09957_TCRB	COVID-19 Positive	Male	81 Years	Caucasian
+INCOV007-AC-5_TCRB	COVID-19 Positive	Male	57 Years	Caucasian
+ADIRP0001215_TCRB	COVID-19 Positive	Male	56 Years	Caucasian
+1035_TCRB				
+P0008108_TCRB				
+BS-HS-0172_TCRB				
+ADIRP0000178_20200522_Frblood_Repertorie_TCRB	COVID-19 Positive	Male	36 Years	Caucasian
+ADIRP0002082_TCRB	COVID-19 Positive	Female	31 Years	Caucasian
+BS-HS-84_TCRB				
+1038_TCRB				
+1009_TCRB				
+INCOV038-BL-3_TCRB	COVID-19 Positive		18 Years	
+KHBR20-00137_TCRB	COVID-19 Positive	Male	74 Years	Caucasian
+KH20-09672_TCRB	COVID-19 Positive	Female	88 Years	Caucasian
+KH20-09667_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+INCOV057-BL-3_TCRB	COVID-19 Positive	Female	39 Years	Caucasian
+1337122BW_TCRB	COVID-19 Positive	Male	20 Years	Caucasian
+KHBR20-00136_TCRB	COVID-19 Positive	Male	78 Years	Caucasian
+1004_TCRB				
+ADIRP0002499_TCRB		Female	38 Years	Black or African American
+ADIRP0000623_TCRB	COVID-19 Positive	Female	59 Years	Caucasian
+INCOV013-CV-3_TCRB	COVID-19 Positive	Female	71 Years	Caucasian
+BS-GIGI_96-replacement_TCRB	COVID-19 Positive	Female	76 Years	Caucasian
+BS-EQ-44-T1-replacement_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+KH20-11683_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+BS-HS-17_TCRB				
+991-GA-529_TCRB				
+BS-HS-0197_TCRB				
+INCOV024-AC-3_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+1588BW_20200417_PBMC_unsorted_cc1000000_ImmunRACE_050820_008_gDNA_TCRB	COVID-19 Positive	Male	63 Years	Unknown racial group
+KHBR20-00127_TCRB	COVID-19 Positive	Male	64 Years	Black or African American
+BS-GIGI_47-replacement_TCRB	COVID-19 Positive	Male	72 Years	Caucasian
+BS-HS-59_TCRB				
+860011235_TCRB	COVID-19 Positive	Male	67 Years	Caucasian
+ADIRP0002279_TCRB	COVID-19 Positive	Female	22 Years	Mixed racial group
+860011203_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+BS-EQ-41-T1-replacement_TCRB		Female	56 Years	Caucasian
+ADIRP0000361_20200527_Frblood_Repertorie_TCRB		Female	40 Years	Caucasian
+ADIRP0000899_TCRB		Female	52 Years	Caucasian
+1471-CS-155_TCRB				
+INCOV030-BL-3_TCRB	COVID-19 Positive	Female	86 Years	Caucasian
+ADIRP0000926_20200605_Unenr_gDNA_ImmunoSEQ_TCRB	COVID-19 Positive	Male	51 Years	Hispanic
+860011303_TCRB	COVID-19 Positive	Male	80 Years	Caucasian
+1123-FA-1127_TCRB				
+KHBR20-00078_TCRB	COVID-19 Positive	Female	50 Years	Caucasian
+550043955_TCRB	COVID-19 Positive	Male	64 Years	Black or African American
+1027_TCRB				
+KH20-09744_TCRB	COVID-19 Positive	Male	42 Years	Caucasian
+INCOV040-AC-3_TCRB	COVID-19 Positive	Female	76 Years	Caucasian
+INCOV027-AC-3_TCRB	COVID-19 Positive	Female	38 Years	Asian or Pacific Islander
+999-BG-353_TCRB				
+1037_TCRB				
+KH20-09680_TCRB	COVID-19 Positive	Female	68 Years	Caucasian
+BS-GIGI_66-replacement_TCRB	COVID-19 Positive	Male	55 Years	Caucasian
+1008_TCRB				
+ADIRP0001893_TCRB		Male	32 Years	Caucasian
+KH20-09699_TCRB	COVID-19 Positive	Female	56 Years	Black or African American
+BS-GN-0010-T0-replacement_TCRB	COVID-19 Positive	Female	40 Years	Caucasian
+BS-EQ-28-T2-replacement_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+860011358_TCRB	COVID-19 Positive	Female	65 Years	Caucasian
+BS-HS-214_TCRB				
+3765BW_TCRB	COVID-19 Positive	Male	36 Years	Caucasian
+BS-GIGI_48-replacement_TCRB	COVID-19 Positive	Female	63 Years	Caucasian
+3943BW_TCRB	COVID-19 Positive	Male	69 Years	Caucasian
+KH20-09728_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+D001005703_20200521_Unenr_immunoSEQ_TCRB	COVID-19 Positive	Female	31 Years	Caucasian
+BS-HS-63_TCRB				
+ADIRP0000355_TCRB	COVID-19 Positive	Female	54 Years	Caucasian
+860011213_TCRB	COVID-19 Positive	Male	86 Years	Caucasian
+KH20-09999_TCRB	COVID-19 Positive	Male	68 Years	Hispanic
+ADIRP0002394_20200622_Frblood_Repertorie_TCRB	COVID-19 Positive			Unknown racial group
+KH20-11678_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+BS-HS-0170_TCRB				
+KH20-09738_TCRB	COVID-19 Positive	Male	64 Years	Caucasian
+KH20-11681_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+KH20-09659_TCRB	COVID-19 Positive	Female	85 Years	Caucasian
+860011256_TCRB	COVID-19 Positive	Male	63 Years	Caucasian
+KH20-09974_TCRB	COVID-19 Positive	Female	65 Years	Black or African American
+ADIRP0000174_TCRB	COVID-19 Positive	Male	41 Years	Mixed racial group
+860011255_TCRB	COVID-19 Positive	Male	37 Years	Caucasian
+KH20-09732_TCRB	COVID-19 Positive	Male	86 Years	Caucasian
+ADIRP0001463_TCRB	COVID-19 Positive	Female	40 Years	Caucasian
+ADIRP0000618_TCRB	COVID-19 Positive	Female	31 Years	Mixed racial group
+550043156_TCRB	COVID-19 Positive	Male	86 Years	Caucasian
+KH20-09965_TCRB	COVID-19 Positive	Female	73 Years	Caucasian
+3821BW_20200416_PBMC_unsorted_cc1000000_ImmunRACE_050820_002_gDNA_TCRB	COVID-19 Positive	Female	71 Years	Unknown racial group
+ADIRP0000709_TCRB	COVID-19 Positive	Female	41 Years	Caucasian
+INCOV077-AC-3_TCRB	COVID-19 Positive	Female	51 Years	Caucasian
+INCOV006-BL-5_TCRB	COVID-19 Positive	Male	26 Years	Unknown racial group
+KH20-11690_TCRB	COVID-19 Positive	Female	31 Years	Caucasian
+A-S-replacement_TCRB				
+INCOV015-BL-5_TCRB	COVID-19 Positive	Female	67 Years	Asian or Pacific Islander
+BS-HS-0175_TCRB				
+860011131_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+ADIRP0001895_TCRB	COVID-19 Positive	Female	37 Years	Caucasian
+1014_TCRB				
+1053_TCRB				
+KH20-09709_TCRB	COVID-19 Positive	Female	60 Years	Caucasian
+KHBR20-00183_TCRB	COVID-19 Positive	Female	62 Years	Caucasian
+ADIRP0002444_TCRB		Female	46 Years	Hispanic
+550043906_TCRB	COVID-19 Positive	Female	72 Years	Caucasian
+BS-HS-31_TCRB				
+KHBR20-00201_TCRB	COVID-19 Positive	Female	62 Years	Caucasian
+727928BW_TCRB	COVID-19 Positive	Male	70 Years	Caucasian
+KH20-09976_TCRB	COVID-19 Positive	Male	61 Years	Black or African American
+INCOV003-AC-5_TCRB	COVID-19 Positive	Male	64 Years	Caucasian
+297752BW_TCRB	COVID-19 Positive	Male	57 Years	
+550042400_TCRB	COVID-19 Positive	Female	73 Years	Caucasian
+KHBR20-00152_TCRB	COVID-19 Positive	Female	81 Years	Caucasian
+INCOV069-AC-3_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+KH20-09695_TCRB	COVID-19 Positive	Female	66 Years	Black or African American
+7972BW_TCRB	COVID-19 Positive	Female	74 Years	Caucasian
+INCOV034-AC-3_TCRB	COVID-19 Positive	Male	30 Years	Asian or Pacific Islander
+INCOV033-BL-3_TCRB	COVID-19 Positive	Female	88 Years	Caucasian
+KH20-09678_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+INCOV027-CV-3_TCRB	COVID-19 Positive	Female	38 Years	Asian or Pacific Islander
+KH20-09687_TCRB	COVID-19 Positive	Female	57 Years	Caucasian
+KH20-11651_TCRB	COVID-19 Positive	Female	88 Years	Caucasian
+KH20-09972_TCRB	COVID-19 Positive	Male	57 Years	Caucasian
+BS-GIGI_05-replacement_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+BS-GIGI_91-replacement_TCRB	COVID-19 Positive	Female	85 Years	Caucasian
+BS-HS-57_TCRB				
+KH20-11658_TCRB	COVID-19 Positive	Female	72 Years	Caucasian
+BS-HS-05_TCRB				
+KH20-11684_TCRB	COVID-19 Positive	Female	69 Years	Caucasian
+860011105_TCRB	COVID-19 Positive	Male	74 Years	Caucasian
+970-FS-1034_TCRB				
+ADIRP0002034_TCRB	COVID-19 Positive	Female	51 Years	Caucasian
+KH20-09721_TCRB	COVID-19 Positive	Female	70 Years	Caucasian
+1132-BL-340_TCRB				
+ADIRP0000937_TCRB		Female	62 Years	Caucasian
+ADIRP0001726_TCRB	COVID-19 Positive	Female	56 Years	Caucasian
+KH20-09682_TCRB	COVID-19 Positive	Male	52 Years	Asian or Pacific Islander
+550040014_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+ADIRP0000466_20200518_Frblood_Repertorie_TCRB	COVID-19 Positive	Male	33 Years	Caucasian
+860011226_TCRB	COVID-19 Positive	Male	72 Years	Caucasian
+KHBR20-00193_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+INCOV053-BL-3_TCRB	COVID-19 Positive	Male	86 Years	Caucasian
+INCOV073-AC-3_TCRB	COVID-19 Positive	Female	55 Years	Unknown racial group
+KHBR20-00095_TCRB	COVID-19 Positive	Female	73 Years	Black or African American
+ADIRP0000010_20200612_Frblood_Repertorie_TCRB	COVID-19 Positive	Female	46 Years	Caucasian
+860011257_TCRB	COVID-19 Positive	Male	27 Years	Caucasian
+712387BW_TCRB	COVID-19 Positive	Female	46 Years	Caucasian
+KH20-09701_TCRB	COVID-19 Positive	Female	72 Years	Caucasian
+BS-HS-20_TCRB				
+860011308_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+1052_TCRB				
+ADIRP0001104_TCRB	COVID-19 Positive	Female	54 Years	Caucasian
+300412BW_TCRB	COVID-19 Positive	Female	54 Years	Caucasian
+550041430_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+860011109_TCRB	COVID-19 Positive	Male	72 Years	Caucasian
+INCOV070-BL-3_TCRB	COVID-19 Positive	Male	42 Years	Unknown racial group
+550041293_TCRB	COVID-19 Positive	Male	51 Years	Caucasian
+KH20-09711_TCRB	COVID-19 Positive	Female	35 Years	
+860011112_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+INCOV053-AC-3_TCRB	COVID-19 Positive	Male	86 Years	Caucasian
+860011125_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+844960BW_TCRB	COVID-19 Positive	Female	62 Years	Caucasian
+BS-EQ-41-T0-replacement_TCRB		Female	56 Years	Caucasian
+860011111_TCRB	COVID-19 Positive	Male	70 Years	Caucasian
+KHBR20-00200_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+1046_TCRB				
+ADIRP0002417_TCRB	COVID-19 Positive	Female	33 Years	Caucasian
+KHBR20-00205_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+1321-CF-243_TCRB				
+860011274_TCRB	COVID-19 Positive	Male	56 Years	Hispanic
+KH20-09726_TCRB	COVID-19 Positive	Male	65 Years	Black or African American
+2513BW_20200417_PBMC_unsorted_cc1000000_ImmunRACE_050820_006_gDNA_TCRB	COVID-19 Positive	Male	48 Years	Unknown racial group
+KHBR20-00191_TCRB	COVID-19 Positive	Female	52 Years	Caucasian
+ADIRP0000466_20200601_Frblood_Repertorie_TCRB		Male	33 Years	Caucasian
+INCOV077-BL-3_TCRB	COVID-19 Positive	Female	51 Years	Caucasian
+KH20-09740_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+550042420_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+5386BW_TCRB	COVID-19 Positive	Male	61 Years	Unknown racial group
+BS-GN-0004-T0-replacement_TCRB		Male	61 Years	Caucasian
+860011324_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+7301BW_20200518_Unenr_gDNA_ImmunoSEQ_TCRB	COVID-19 Positive	Female	54 Years	Unknown racial group
+KHBR20-00165_TCRB	COVID-19 Positive	Male	56 Years	Caucasian
+BS-EQ-33-T1-replacement_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+ADIRP0000189_20200528_Frblood_Repertorie_TCRB	COVID-19 Positive	Male	33 Years	Caucasian
+550044029_TCRB	COVID-19 Positive	Female	51 Years	Black or African American
+ADIRP0001328_TCRB	COVID-19 Positive	Female	41 Years	Caucasian
+INCOV070-AC-3_TCRB	COVID-19 Positive	Male	42 Years	Unknown racial group
+2987BW_TCRB	COVID-19 Positive	Male	68 Years	Caucasian
+KHBR20-00186_TCRB	COVID-19 Positive	Male	51 Years	Caucasian
+1048_TCRB				
+KH20-09718_TCRB	COVID-19 Positive	Male	77 Years	Asian or Pacific Islander
+BS-HS-0178_TCRB				
+ADIRP0002519_TCRB	COVID-19 Positive	Female	27 Years	Asian or Pacific Islander
+BS-HS-34_TCRB				
+ADIRP0002520_TCRB	COVID-19 Positive	Female	34 Years	Hispanic
+BS-HS-44_TCRB				
+ADIRP0000412_20200520_Unenr_immunoSEQ_TCRB	COVID-19 Positive	Male	47 Years	Caucasian
+550041499_TCRB	COVID-19 Positive	Male	86 Years	Caucasian
+BS-EQ-38-T2-replacement_TCRB	COVID-19 Positive	Male	59 Years	Caucasian
+KHBR20-00111_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+ADIRP0001152_TCRB	COVID-19 Positive	Female	24 Years	Caucasian
+BS-GN-0015-T0-replacement_TCRB		Male	78 Years	Caucasian
+KH20-11660_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+INCOV047-AC-3_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+INCOV057-AC-3_TCRB	COVID-19 Positive	Female	39 Years	Caucasian
+KHBR20-00151_TCRB	COVID-19 Positive	Male	38 Years	Caucasian
+KH20-11667_TCRB	COVID-19 Positive	Female	74 Years	Caucasian
+BS-HS-10_TCRB				
+BS-GIGI_37-replacement_TCRB		Male	58 Years	
+860011253_TCRB	COVID-19 Positive	Male	29 Years	Caucasian
+INCOV016-AC-5_TCRB	COVID-19 Positive	Male	37 Years	Asian or Pacific Islander
+KH20-09747_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+KH20-11687_TCRB	COVID-19 Positive	Female	72 Years	Caucasian
+KH20-11306_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+BS-GIGI_63-replacement_TCRB	COVID-19 Positive	Male	72 Years	Caucasian
+KH20-09750_TCRB	COVID-19 Positive	Female	77 Years	Caucasian
+BS-EQ-0027-T1-replacement_TCRB		Male	78 Years	Caucasian
+KH20-11291_TCRB	COVID-19 Positive	Female	37 Years	Black or African American
+860011206_TCRB	COVID-19 Positive	Female	83 Years	Caucasian
+ADIRP0001145_TCRB	COVID-19 Positive	Female	43 Years	Caucasian
+KH20-09984_TCRB	COVID-19 Positive	Female	66 Years	Caucasian
+KHBR20-00160_TCRB	COVID-19 Positive	Male	61 Years	Black or African American
+KH20-09670_TCRB	COVID-19 Positive	Male	84 Years	Asian or Pacific Islander
+BS-HS-193_TCRB				
+ADIRP0000090_TCRB		Female	24 Years	Caucasian
+BS-GIGI_76-replacement_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+BS-HS-220_TCRB				
+ADIRP0000752_TCRB	COVID-19 Positive	Female	40 Years	Caucasian
+Q-E-replacement_TCRB				
+KHBR20-00113_TCRB	COVID-19 Positive	Male	56 Years	Caucasian
+INCOV041-AC-3_TCRB	COVID-19 Positive	Male	65 Years	Caucasian
+BS-GIGI_57-replacement_TCRB	COVID-19 Positive	Male		Caucasian
+6232BW_TCRB	COVID-19 Positive	Male	72 Years	Caucasian
+1004-BM-132_TCRB				
+KH20-11670_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+1016-DMA-567_TCRB				
+KHBR20-00145_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+BS-HS-58_TCRB				
+KH20-09673_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+860011447_TCRB		Female	86 Years	Caucasian
+ADIRP0001869_TCRB	COVID-19 Positive	Female	51 Years	Caucasian
+7519BW_20200518_Unenr_gDNA_ImmunoSEQ_TCRB	COVID-19 Positive	Female	61 Years	Unknown racial group
+ADIRP0000045_TCRB	COVID-19 Positive	Female	27 Years	Mixed racial group
+860011231_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+BS-HS-28_TCRB				
+1469-CA-823_TCRB				
+860011383_TCRB	COVID-19 Positive	Female	87 Years	Caucasian
+KH20-09958_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+ADIRP0000868_TCRB	COVID-19 Positive	Female	58 Years	Caucasian
+ADIRP0001510_TCRB	COVID-19 Positive	Female	52 Years	Caucasian
+ADIRP0000341_TCRB	COVID-19 Positive	Female	66 Years	Caucasian
+ADIRP0002156_TCRB	COVID-19 Positive	Male	34 Years	Caucasian
+INCOV013-AC-5_TCRB	COVID-19 Positive	Female	71 Years	Caucasian
+860011314_TCRB	COVID-19 Positive	Male	80 Years	Caucasian
+INCOV061-AC-3_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+1253-DSGV-556_TCRB				
+BS-HS-209_TCRB				
+964229BW_TCRB	COVID-19 Positive	Male	48 Years	Native American or Alaska Native
+ADIRP0001353_TCRB	COVID-19 Positive	Male	51 Years	Caucasian
+BS-GIGI_19-replacement_TCRB	COVID-19 Positive	Male	70 Years	Caucasian
+BS-HS-216_TCRB				
+BS-GIGI_71-replacement_TCRB	COVID-19 Positive	Male	72 Years	Caucasian
+KHBR20-00167_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+INCOV004-BL-5_TCRB	COVID-19 Positive	Male	76 Years	Caucasian
+860011241_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+KH20-09668_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+4973BW_unsorted_cc1000000_ImmunRACE_043020_002_gDNA_TCRB	COVID-19 Positive	Male	65 Years	Unknown racial group
+KH20-09737_TCRB	COVID-19 Positive	Male	76 Years	Caucasian
+BS-HS-22_TCRB				
+860011108_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+INCOV042-BL-3_TCRB	COVID-19 Positive	Female	60 Years	Unknown racial group
+550042578_TCRB	COVID-19 Positive	Male	81 Years	
+860011313_TCRB	COVID-19 Positive	Male	65 Years	Caucasian
+ADIRP0002685_20200630_Unenr-1_TCRB	COVID-19 Positive			Unknown racial group
+ADIRP0002425_TCRB	COVID-19 Positive	Female	62 Years	Black or African American
+KHBR20-00100_TCRB	COVID-19 Positive	Male	47 Years	Black or African American
+1566622BW_TCRB	COVID-19 Positive	Male	69 Years	Caucasian
+ADIRP0001674_TCRB	COVID-19 Positive	Female	45 Years	Caucasian
+BS-GIGI_88-replacement_TCRB		Male	61 Years	Caucasian
+KH20-11294_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+BS-HS-15_TCRB				
+550043940_TCRB	COVID-19 Positive	Male	74 Years	Caucasian
+KH20-11302_TCRB	COVID-19 Positive	Female	57 Years	Caucasian
+ADIRP0001221_TCRB		Female	32 Years	Caucasian
+BS-EQ-21-T1-replacement_TCRB	COVID-19 Positive	Male	79 Years	Caucasian
+BS-GIGI_07-replacement_TCRB	COVID-19 Positive	Female	72 Years	Caucasian
+KH20-09990_TCRB	COVID-19 Positive	Female	70 Years	Caucasian
+860011279_TCRB	COVID-19 Positive	Male	59 Years	Caucasian
+BS-EQ-25-T0-replacement_TCRB	COVID-19 Positive	Male	72 Years	Caucasian
+BS-HS-40_TCRB				
+860011121_TCRB	COVID-19 Positive	Male	59 Years	Caucasian
+KH20-09993_TCRB	COVID-19 Positive	Female	81 Years	Caucasian
+KHBR20-00178_TCRB	COVID-19 Positive	Male	48 Years	Black or African American
+BS-HS-182_TCRB				
+860011118_TCRB	COVID-19 Positive	Female	53 Years	Hispanic
+1029_TCRB				
+860011218_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+BS-EQ-0009-T2-replacement_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+KH20-11812_TCRB	COVID-19 Positive	Female	82 Years	Caucasian
+860011355_TCRB	COVID-19 Positive	Male	72 Years	Caucasian
+KH20-09973_TCRB	COVID-19 Positive	Female	77 Years	Caucasian
+550041239-1_TCRB	COVID-19 Positive	Male	34 Years	Caucasian
+BS-HS-29_TCRB				
+BS-HS-219_TCRB				
+860011242_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+KH20-09705_TCRB	COVID-19 Positive	Male	59 Years	Caucasian
+BS-HS-60_TCRB				
+1013_TCRB				
+ADIRP0001929_TCRB	COVID-19 Positive	Male	36 Years	Mixed racial group
+INCOV030-AC-3_TCRB	COVID-19 Positive	Female	86 Years	Caucasian
+BS-GIGI_68-replacement_TCRB	COVID-19 Positive	Male	67 Years	Caucasian
+KHBR20-00126_TCRB	COVID-19 Positive	Male	69 Years	Black or African American
+860011312_TCRB	COVID-19 Positive	Female	87 Years	Caucasian
+KH20-11661_TCRB	COVID-19 Positive	Male	78 Years	Caucasian
+INCOV043-BL-3_TCRB	COVID-19 Positive		75 Years	
+INCOV002-CV-3_TCRB	COVID-19 Positive	Male	39 Years	Caucasian
+ADIRP0002433_TCRB		Female	33 Years	Asian or Pacific Islander
+ADIRP0000292_TCRB	COVID-19 Positive	Male	55 Years	Caucasian
+INCOV006-CV-3_TCRB	COVID-19 Positive	Male	26 Years	Unknown racial group
+ADIRP0001063_TCRB	COVID-19 Positive	Male	47 Years	Black or African American
+INCOV045-BL-3_TCRB	COVID-19 Positive	Female	48 Years	Caucasian
+KH20-09951_TCRB	COVID-19 Positive	Male	79 Years	Caucasian
+KH20-09698_TCRB	COVID-19 Positive	Male	75 Years	Caucasian
+KH20-11640_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+ADIRP0002175_TCRB		Female	44 Years	Black or African American
+INCOV012-CV-3_TCRB	COVID-19 Positive	Female	73 Years	Caucasian
+BS-GIGI_69-replacement_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+BS-EQ-38-T1_BS-GIGI-117-replacement_TCRB	COVID-19 Positive	Male	59 Years	Caucasian
+BS-EQ-33-T2-replacement_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+KHBR20-00150_TCRB	COVID-19 Positive	Male	63 Years	Caucasian
+KH20-11644_TCRB	COVID-19 Positive	Female	52 Years	Black or African American
+KH20-11689_TCRB	COVID-19 Positive	Female	70 Years	Caucasian
+BS-GIGI_82-replacement_TCRB		Male	55 Years	Caucasian
+BS-SPECIAL-1-T1_TCRB				
+860011114_TCRB	COVID-19 Positive	Male	53 Years	Caucasian
+860011139_TCRB	COVID-19 Positive	Female	70 Years	Caucasian
+BS-EQ-0002-T1-replacement_TCRB	COVID-19 Positive	Male	55 Years	Caucasian
+6890BW_20200415_Unenr_immumoSEQ_TCRB	COVID-19 Positive	Male	61 Years	Unknown racial group
+BS-GIGI_03-replacement_TCRB	COVID-19 Positive	Male	62 Years	Caucasian
+KH20-09703_TCRB	COVID-19 Positive	Male	55 Years	
+BS-EQ-39-T0-replacement_TCRB	COVID-19 Positive	Female	63 Years	Caucasian
+1566426BW_TCRB	COVID-19 Positive	Male	29 Years	Caucasian
+860011320_TCRB	COVID-19 Positive	Female	58 Years	Caucasian
+INCOV062-BL-3_TCRB	COVID-19 Positive	Female	77 Years	Asian or Pacific Islander
+KH20-09731_TCRB	COVID-19 Positive	Female	81 Years	Caucasian
+INCOV002-BL-5_TCRB	COVID-19 Positive	Male	39 Years	Caucasian
+BS-HS-12_TCRB				
+860011306_TCRB	COVID-19 Positive	Male	08 Years	Caucasian
+BS-EQ-09-T1-replacement_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+KH20-09736_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+KHBR20-00171_TCRB	COVID-19 Positive	Female	82 Years	Caucasian
+860011260_TCRB	COVID-19 Positive	Male	23 Years	Caucasian
+KHBR20-00190_TCRB	COVID-19 Positive	Female	46 Years	Caucasian
+ADIRP0000273_20200527_Frblood_Repertorie_TCRB		Female	49 Years	Caucasian
+1566984BW_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+BS-GIGI_11-replacement_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+BS-GIGI_23-replacement_TCRB	COVID-19 Positive	Male	85 Years	Caucasian
+860011351_TCRB	COVID-19 Positive	Male	70 Years	Caucasian
+1005_TCRB				
+860011129_TCRB	COVID-19 Positive	Female	78 Years	Caucasian
+550043981_TCRB	COVID-19 Positive	Male	86 Years	Caucasian
+ADIRP0001524_20200629_Unenr-1_TCRB	COVID-19 Positive			Unknown racial group
+860011278_TCRB	COVID-19 Positive	Male	48 Years	Hispanic
+INCOV022-AC-3_TCRB	COVID-19 Positive	Female	55 Years	Black or African American
+ADIRP0000767_TCRB		Female	34 Years	Caucasian
+1030_TCRB				
+KH20-09674_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+1018_TCRB				
+1129-LVM-668_TCRB				
+550041441_TCRB	COVID-19 Positive	Female	43 Years	Black or African American
+ADIRP0002184_TCRB	COVID-19 Positive	Male	38 Years	Caucasian
+860011233_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+BS-GIGI_83-replacement_TCRB	COVID-19 Positive	Female	73 Years	Caucasian
+KH20-11659_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+KH20-09980_TCRB	COVID-19 Positive	Female	72 Years	Native American or Alaska Native
+KHBR20-00099_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+KH20-11807_TCRB	COVID-19 Positive	Male	65 Years	Caucasian
+BS-EQ-19-T0-replacement_TCRB	COVID-19 Positive	Female	57 Years	Caucasian
+860011237_TCRB	COVID-19 Positive	Male	70 Years	Caucasian
+1566913BW_TCRB	COVID-19 Positive	Female	42 Years	Caucasian
+860011343_TCRB	COVID-19 Positive	Male	48 Years	Hispanic
+KHBR20-00206_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+550041390_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+BS-EQ-10-T1-replacement_TCRB	COVID-19 Positive	Male	58 Years	Caucasian
+ADIRP0000141_TCRB	COVID-19 Positive	Female	29 Years	Caucasian
+860011276_TCRB	COVID-19 Positive	Male	56 Years	Hispanic
+1567268BW_TCRB	COVID-19 Positive	Male	34 Years	Caucasian
+KHBR20-00082_TCRB	COVID-19 Positive	Male	28 Years	Black or African American
+INCOV023-AC-3_TCRB	COVID-19 Positive	Female	71 Years	Black or African American
+INCOV004-AC-5_TCRB	COVID-19 Positive	Male	76 Years	Caucasian
+ADIRP0001657_TCRB	COVID-19 Positive	Female	44 Years	Mixed racial group
+KH20-09658_TCRB	COVID-19 Positive	Male	34 Years	Caucasian
+ADIRP0001865_TCRB	COVID-19 Positive	Male	38 Years	Asian or Pacific Islander
+1349BW_unsorted_cc1000000_ImmunRACE_043020_003_gDNA_TCRB	COVID-19 Positive	Male	61 Years	Unknown racial group
+BS-HS-112_TCRB				
+860011342_TCRB	COVID-19 Positive	Male	56 Years	Hispanic
+860011304_TCRB	COVID-19 Positive	Female	56 Years	Caucasian
+KHBR20-00092_TCRB	COVID-19 Positive	Female	45 Years	Black or African American
+INCOV086-AC-3_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+eEE225_4_3270BW_20200410_unenriched-1_TCRB	COVID-19 Positive	Female	79 Years	Unknown racial group
+860011322_TCRB		Female	85 Years	Caucasian
+550042599_TCRB	COVID-19 Positive	Female	71 Years	Caucasian
+550042526_TCRB	COVID-19 Positive	Male	47 Years	Black or African American
+BS-GIGI_13-replacement_TCRB	COVID-19 Positive	Male	67 Years	Caucasian
+BS-GN-0007-T0-replacement_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+INCOV043-AC-3_TCRB	COVID-19 Positive		75 Years	
+INCOV075-BL-3_TCRB	COVID-19 Positive	Male	57 Years	Asian or Pacific Islander
+KH20-09685_TCRB	COVID-19 Positive	Male	61 Years	Black or African American
+3565BW_20200417_PBMC_unsorted_cc1000000_ImmunRACE_050820_007_gDNA_TCRB	COVID-19 Positive	Male	57 Years	Unknown racial group
+ADIRP0001289_TCRB		Female	48 Years	Caucasian
+1007_TCRB				
+ADIRP0000555_TCRB	COVID-19 Positive	Male	48 Years	
+BS-EQ-0018-T0-replacement_TCRB	COVID-19 Positive	Male	59 Years	Caucasian
+KH20-09961_TCRB	COVID-19 Positive	Female	78 Years	Caucasian
+KH20-11662_TCRB	COVID-19 Positive	Female	74 Years	Caucasian
+ADIRP0002887_TCRB		Female	32 Years	Caucasian
+ADIRP0002283_20200617_Frblood_Repertorie_TCRB	COVID-19 Positive	Female	60 Years	Caucasian
+INCOV032-AC-3_TCRB	COVID-19 Positive	Male	63 Years	Unknown racial group
+ADIR0000021_TCRB		Female	43 Years	Caucasian
+1109-AAMU-1064_TCRB				
+INCOV082-BL-3_TCRB	COVID-19 Positive	Female	60 Years	Caucasian
+KHBR20-00146_TCRB	COVID-19 Positive	Male	48 Years	Black or African American
+INCOV045-AC-3_TCRB	COVID-19 Positive	Female	48 Years	Caucasian
+1010_TCRB				
+860011450_TCRB	COVID-19 Positive	Female	67 Years	Caucasian
+860011277_TCRB	COVID-19 Positive	Male	08 Years	Caucasian
+KHBR20-00172_TCRB	COVID-19 Positive	Male	67 Years	Black or African American
+BS-EQ-29-T0-replacement_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+860011287_TCRB	COVID-19 Positive	Male	41 Years	Caucasian
+860011251_TCRB	COVID-19 Positive	Male	32 Years	Caucasian
+BS-HS-127_TCRB				
+KH20-11296_TCRB	COVID-19 Positive	Male	65 Years	Caucasian
+INCOV064-BL-3_TCRB	COVID-19 Positive	Female	76 Years	Caucasian
+KH20-11815_TCRB	COVID-19 Positive	Male	49 Years	Caucasian
+KH20-11650_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+2742BW_20200420_PBMC_unsorted_cc1000000_ImmunRACE_052220_004_TCRB	COVID-19 Positive	Female	67 Years	Unknown racial group
+550042550_TCRB	COVID-19 Positive	Male	70 Years	Caucasian
+KH20-09723_TCRB	COVID-19 Positive	Male	47 Years	Black or African American
+INCOV058-AC-3_TCRB	COVID-19 Positive	Female	63 Years	Caucasian
+1022-BB-365_TCRB				
+KH20-11701_TCRB	COVID-19 Positive	Male	62 Years	Black or African American
+BS-EQ-43-T2-replacement_TCRB	COVID-19 Positive	Male	54 Years	Caucasian
+1811BW_20200520_Unenr_gDNA_ImmunoSEQ_TCRB	COVID-19 Positive	Male	66 Years	Unknown racial group
+860011137_TCRB	COVID-19 Positive	Male	78 Years	Caucasian
+550043903_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+BS-HS-0200_TCRB				
+860011202_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+KHBR20-00181_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+KH20-09714_TCRB	COVID-19 Positive	Male	85 Years	Caucasian
+ADIRP0000539_TCRB	COVID-19 Positive	Female	43 Years	Caucasian
+550043912_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+860011134_TCRB	COVID-19 Positive	Male	72 Years	Caucasian
+KHBR20-00121_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+860011107_TCRB		Female	76 Years	Caucasian
+KHBR20-00135_TCRB	COVID-19 Positive	Female	62 Years	Caucasian
+860011122_TCRB	COVID-19 Positive	Female	72 Years	Caucasian
+1564208BW_TCRB	COVID-19 Positive	Male	43 Years	Caucasian
+INCOV002-AC-5_TCRB	COVID-19 Positive	Male	39 Years	Caucasian
+ADIRP0000252_TCRB	COVID-19 Positive	Female	28 Years	Asian or Pacific Islander
+INCOV058-BL-3_TCRB	COVID-19 Positive	Female	63 Years	Caucasian
+ADIRP0002818_20200629_B-PBMC_unsorted_cc2000000_ImmunRACE_070620_001_gDNA_TCRB	COVID-19 Positive			Unknown racial group
+BS-EQ-43-T1_BS-GIGI-137-replacement_TCRB	COVID-19 Positive	Male	54 Years	Caucasian
+KH20-09675_TCRB	COVID-19 Positive	Male	68 Years	
+550042609_TCRB	COVID-19 Positive	Female	82 Years	Caucasian
+ADIRP0001499_20200611_Frblood_Repertorie_TCRB	COVID-19 Positive	Female	53 Years	Asian or Pacific Islander
+ADIRP0001217_TCRB	COVID-19 Positive	Female	59 Years	Caucasian
+KH20-11300_TCRB	COVID-19 Positive	Male	53 Years	Black or African American
+INCOV051-AC-3_TCRB	COVID-19 Positive	Male	34 Years	Unknown racial group
+BS-EQ-18-T2-replacement_TCRB	COVID-19 Positive	Male	59 Years	Caucasian
+860011280_TCRB	COVID-19 Positive	Male	72 Years	Caucasian
+550043927_TCRB	COVID-19 Positive	Male	69 Years	Caucasian
+BS-GIGI_31-replacement_TCRB	COVID-19 Positive	Female	63 Years	Caucasian
+BS-HS-77_TCRB				
+BS-SPECIAL-1-T2_TCRB				
+KHBR20-00153_TCRB	COVID-19 Positive	Male	68 Years	
+BS-HS-106_TCRB				
+KH20-09657_TCRB	COVID-19 Positive	Male	68 Years	Caucasian
+BS-GIGI_60-replacement_TCRB	COVID-19 Positive	Male	55 Years	Caucasian
+KHBR20-00156_TCRB	COVID-19 Positive	Male	48 Years	Black or African American
+KHBR20-00149_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+INCOV017-BL-5_TCRB	COVID-19 Positive	Male	57 Years	Asian or Pacific Islander
+KH20-11672_TCRB	COVID-19 Positive	Female	28 Years	Caucasian
+INCOV048-BL-3_TCRB	COVID-19 Positive	Male	64 Years	Caucasian
+BS-HS-23_TCRB				
+INCOV061-BL-3_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+550043920_TCRB	COVID-19 Positive	Male	45 Years	Caucasian
+BS-HS-120_TCRB				
+BS-EQ-0022-T0-replacement_TCRB	COVID-19 Positive	Male	76 Years	Caucasian
+SIXED-replacement_TCRB				
+BS-GIGI_59-replacement_TCRB	COVID-19 Positive	Male	57 Years	Caucasian
+860011493_TCRB	COVID-19 Positive	Male	41 Years	Hispanic
+KH20-11637_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+ADIRP0000923_TCRB	COVID-19 Positive	Male	34 Years	Mixed racial group
+KH20-11698_TCRB	COVID-19 Positive	Male	62 Years	Caucasian
+860011311_TCRB	COVID-19 Positive	Female	83 Years	Caucasian
+KHBR20-00134_TCRB	COVID-19 Positive	Male	68 Years	
+KH20-11813_TCRB	COVID-19 Positive	Female	72 Years	
+BS-HS-163_TCRB				
+BS-GIGI_01-replacement_TCRB	COVID-19 Positive	Male	80 Years	Caucasian
+KH20-11811_TCRB	COVID-19 Positive	Male	84 Years	Caucasian
+BS-EQ-0028-T0-replacement_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+860011239_TCRB	COVID-19 Positive	Male	55 Years	Hispanic
+KH20-11298_TCRB	COVID-19 Positive	Male	50 Years	Black or African American
+KHBR20-00094_TCRB	COVID-19 Positive	Male	86 Years	Black or African American
+ADIRP0001479_TCRB	COVID-19 Positive	Male	64 Years	Caucasian
+860011227_TCRB	COVID-19 Positive	Male	70 Years	Caucasian
+BS-HS-218_TCRB				
+BS-EQ-0011-T1-replacement_TCRB	COVID-19 Positive	Male	79 Years	Caucasian
+INCOV085-BL-3_TCRB	COVID-19 Positive	Female	36 Years	Caucasian
+ADIRP0000710_TCRB	COVID-19 Positive	Female	36 Years	Hispanic
+KH20-09741_TCRB	COVID-19 Positive	Female	79 Years	Native American or Alaska Native
+KH20-09979_TCRB	COVID-19 Positive	Female	64 Years	Caucasian
+860011263_TCRB	COVID-19 Positive	Male	42 Years	Caucasian
+INCOV035-BL-3_TCRB	COVID-19 Positive	Male	61 Years	Asian or Pacific Islander
+ADIRP0002343_TCRB	COVID-19 Positive	Female	52 Years	Hispanic
+BS-GIGI_20-replacement_TCRB	COVID-19 Positive	Male	78 Years	Caucasian
+KH20-11692_TCRB	COVID-19 Positive	Male	86 Years	Caucasian
+ADIRP0000837_TCRB	COVID-19 Positive	Female	55 Years	Caucasian
+ADIRP0001770_20200616_Frblood_Repertorie_TCRB	COVID-19 Positive			Unknown racial group
+1040_TCRB				
+860011210_TCRB	COVID-19 Positive	Male	47 Years	Caucasian
+INCOV031-BL-3_TCRB	COVID-19 Positive	Male	47 Years	Unknown racial group
+KH20-11297_TCRB	COVID-19 Positive	Female	49 Years	Black or African American
+KH20-11685_TCRB	COVID-19 Positive	Male	85 Years	Caucasian
+1568100BW_TCRB	COVID-19 Positive	Male	54 Years	Caucasian
+BS-GIGI_41-replacement_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+BS-GN-0005-T0-replacement_TCRB	COVID-19 Positive	Male	54 Years	Caucasian
+KH20-09713_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+ADIRP0000535_20200527_Frblood_Repertorie_TCRB	COVID-19 Positive	Male	28 Years	Caucasian
+KH20-09992_TCRB	COVID-19 Positive	Female	85 Years	Caucasian
+860011282_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+860011337_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+BS-HS-225_TCRB				
+ADIRP0002267_20200619_Frblood_Repertorie_TCRB				Unknown racial group
+860011382_TCRB	COVID-19 Positive	Female	55 Years	Caucasian
+BS-HS-125_TCRB				
+ADIRP0002058_TCRB		Male	31 Years	Hispanic
+KHBR20-00163_TCRB	COVID-19 Positive	Female	56 Years	Black or African American
+INCOV024-CV-3_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+550043980_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+INCOV049-BL-3_TCRB	COVID-19 Positive	Male	82 Years	Caucasian
+BS-HS-56_TCRB				
+1028_TCRB				
+KH20-09746_TCRB	COVID-19 Positive	Male	75 Years	Caucasian
+ADIRP0001325_TCRB		Female	41 Years	Caucasian
+ADIRP0002301_TCRB	COVID-19 Positive	Male	37 Years	Caucasian
+ADIRP0002705_TCRB		Female	50 Years	Black or African American
+860011499_TCRB	COVID-19 Positive	Male	58 Years	Caucasian
+BS-GN-0003-T0-replacement_TCRB	COVID-19 Positive	Male	70 Years	Caucasian
+KHBR20-00117_TCRB	COVID-19 Positive	Male	69 Years	Black or African American
+KH20-09991_TCRB	COVID-19 Positive	Female	63 Years	Native American or Alaska Native
+BS-EQ-0006-T1-replacement_TCRB	COVID-19 Positive	Female	37 Years	Caucasian
+INCOV071-AC-3_TCRB	COVID-19 Positive	Female	80 Years	Caucasian
+INCOV007-CV-3_TCRB	COVID-19 Positive	Male	57 Years	Caucasian
+KHBR20-00196_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+860011275_TCRB	COVID-19 Positive	Male	64 Years	Caucasian
+BS-HS-43_TCRB				
+KH20-09696_TCRB	COVID-19 Positive	Male	34 Years	Black or African American
+ADIRP0000730_TCRB	COVID-19 Positive	Female	54 Years	Caucasian
+BS-GIGI_21-replacement_TCRB	COVID-19 Positive	Female	60 Years	Caucasian
+BS-GIGI_67-replacement_TCRB		Male	36 Years	Caucasian
+860011338_TCRB	COVID-19 Positive	Male	72 Years	Caucasian
+KHBR20-00103_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+KH20-09655_TCRB	COVID-19 Positive	Female	88 Years	Caucasian
+3646BW_20200417_PBMC_unsorted_cc1000000_ImmunRACE_052220_003_TCRB	COVID-19 Positive	Male	38 Years	Unknown racial group
+BS-GIGI_55-replacement_TCRB	COVID-19 Positive	Male	54 Years	Caucasian
+KH20-09751_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+ADIRP0000066_TCRB	COVID-19 Positive	Female	22 Years	Caucasian
+ADIRP0000036_TCRB	COVID-19 Positive	Male	32 Years	Caucasian
+860011357_TCRB	COVID-19 Positive	Male	40 Years	Hispanic
+7954BW_20200518_Unenr_gDNA_ImmunoSEQ_TCRB	COVID-19 Positive	Male	28 Years	Unknown racial group
+BS-HS-0179_TCRB				
+INCOV083-BL-3_TCRB	COVID-19 Positive	Female	42 Years	Caucasian
+860011449_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+KHBR20-00115_TCRB	COVID-19 Positive	Female	72 Years	Black or African American
+KH20-09946_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+KH20-09998_TCRB	COVID-19 Positive	Female	74 Years	Caucasian
+860011445_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+INCOV017-AC-5_TCRB	COVID-19 Positive	Male	57 Years	Asian or Pacific Islander
+550042933_TCRB	COVID-19 Positive	Female	65 Years	Black or African American
+860011141_TCRB	COVID-19 Positive	Female	86 Years	Caucasian
+BS-EQ-38-T0-replacement_TCRB	COVID-19 Positive	Male	59 Years	Caucasian
+1684BW_20200520_Unenr_gDNA_ImmunoSEQ_TCRB	COVID-19 Positive	Female	72 Years	Unknown racial group
+KH20-09716_TCRB	COVID-19 Positive	Male	79 Years	Caucasian
+ADIRP0002498_TCRB	COVID-19 Positive	Female	61 Years	Black or African American
+KH20-09954_TCRB	COVID-19 Positive	Female	54 Years	Caucasian
+KH20-11656_TCRB	COVID-19 Positive	Female	87 Years	Caucasian
+550041421_TCRB	COVID-19 Positive	Female	83 Years	Caucasian
+860011463_TCRB		Female	63 Years	Caucasian
+1566512BW_TCRB	COVID-19 Positive	Female	48 Years	Caucasian
+BS-EQ-30-T1-replacement_TCRB	COVID-19 Positive	Male	53 Years	Caucasian
+KHBR20-00173_TCRB	COVID-19 Positive	Female	66 Years	Black or African American
+BS-GIGI_26-replacement_TCRB	COVID-19 Positive	Male	80 Years	Caucasian
+1044BW_20200414_Unenr_immunoSEQ_TCRB	COVID-19 Positive	Male	29 Years	Unknown racial group
+KH20-09693_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+860011115_TCRB	COVID-19 Positive	Male	63 Years	Caucasian
+KHBR20-00130_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+ADIRP0001326_20200618_Frblood_Repertorie_TCRB	COVID-19 Positive			Unknown racial group
+1057_TCRB				
+INCOV072-AC-3_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+BS-HS-96_TCRB				
+1566779BW_TCRB	COVID-19 Positive	Female	58 Years	Caucasian
+KH20-09702_TCRB	COVID-19 Positive	Female	62 Years	Caucasian
+1045_TCRB				
+KHBR20-00154_TCRB	COVID-19 Positive	Male	48 Years	Black or African American
+INCOV042-CV-3_TCRB	COVID-19 Positive	Female	60 Years	Unknown racial group
+BS-GIGI_54-replacement_TCRB	COVID-19 Positive	Male	65 Years	Caucasian
+ADIRP0000679_TCRB		Female	27 Years	Caucasian
+KH20-11638_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+BS-EQ-33-T0-replacement_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+ADIRP0001349_TCRB	COVID-19 Positive	Female	30 Years	Caucasian
+KHBR20-00080_TCRB	COVID-19 Positive	Male	47 Years	Black or African American
+BS-HS-186_TCRB				
+1021_TCRB				
+1569039BW_TCRB	COVID-19 Positive	Male	41 Years	Caucasian
+ADIRP0000356_TCRB	COVID-19 Positive	Female	23 Years	Caucasian
+BS-HS-109_TCRB				
+KH20-09664_TCRB	COVID-19 Positive	Male	67 Years	Unknown racial group
+BS-GIGI_39-replacement_TCRB	COVID-19 Positive	Male	78 Years	Caucasian
+INCOV022-CV-3_TCRB	COVID-19 Positive	Female	55 Years	Black or African American
+550043986_TCRB	COVID-19 Positive	Male	71 Years	Black or African American
+860011250_TCRB	COVID-19 Positive	Female	43 Years	Hispanic
+975-AMS-1074_TCRB				
+BS-EQ-16-T2-replacement_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+860011319_TCRB	COVID-19 Positive	Male	53 Years	Hispanic
+KH20-09945_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+ADIRP0001234_TCRB	COVID-19 Positive	Female	37 Years	Caucasian
+550041173_TCRB	COVID-19 Positive	Male	85 Years	Caucasian
+BS-GIGI_33-replacement_TCRB	COVID-19 Positive	Male	64 Years	Caucasian
+KH20-11653_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+860011325_TCRB	COVID-19 Positive	Female	88 Years	Caucasian
+BS-HS-35_TCRB				
+ADIRP0002340_TCRB	COVID-19 Positive	Female	56 Years	Mixed racial group
+KH20-11293_TCRB	COVID-19 Positive	Female	59 Years	Black or African American
+KH20-09743_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+BS-HS-80_TCRB				
+ADIRP0002291_TCRB	COVID-19 Positive	Male	41 Years	Caucasian
+1006_TCRB				
+KH20-09988_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+BS-HS-217_TCRB				
+1044_TCRB				
+1047_TCRB				
+860011315_TCRB				
+BS-GIGI_08-replacement_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+BS-EQ-0001-T1-replacement_TCRB	COVID-19 Positive	Male	54 Years	Caucasian
+BS-HS-116_TCRB				
+ADIRP0000247_TCRB	COVID-19 Positive	Male	58 Years	Caucasian
+ADIRP0000422_TCRB	COVID-19 Positive	Female	27 Years	Caucasian
+KH20-11676_TCRB	COVID-19 Positive	Female	73 Years	Caucasian
+ADIRP0002427_TCRB	COVID-19 Positive	Female	51 Years	Hispanic
+ADIRP0000739_TCRB		Male	44 Years	Caucasian
+860011340_TCRB	COVID-19 Positive	Male	23 Years	Hispanic
+4730BW_TCRB	COVID-19 Positive	Female	25 Years	Caucasian
+KH20-09689_TCRB	COVID-19 Positive	Male	64 Years	Black or African American
+5115BW_TCRB	COVID-19 Positive	Male	57 Years	Caucasian
+550042442_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+ADIRP0000120_TCRB	COVID-19 Positive	Female	23 Years	Black or African American
+BS-HS-215_TCRB				
+KH20-11657_TCRB	COVID-19 Positive	Female	73 Years	Caucasian
+550042542_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+KHBR20-00162_TCRB	COVID-19 Positive	Female	66 Years	Black or African American
+550043995_TCRB	COVID-19 Positive	Male	80 Years	Caucasian
+BS-GN-0009-T0-replacement_TCRB	COVID-19 Positive	Male	79 Years	Caucasian
+1042_TCRB				
+1886BW_unsorted_cc1000000_ImmunRACE_043020_004_gDNA_TCRB	COVID-19 Positive	Male	55 Years	Unknown racial group
+ADIRP0001369_20200618_Unenr_gDNA_ImmunoSEQ_TCRB				Unknown racial group
+KH20-09953_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+550044028_TCRB	COVID-19 Positive	Female	47 Years	Caucasian
+1017_TCRB				
+KHBR20-00140_TCRB	COVID-19 Positive	Female	81 Years	Caucasian
+BS-EQ-11-T3-replacement_TCRB	COVID-19 Positive	Male	79 Years	Caucasian
+BS-EQ-31-T0-replacement_TCRB	COVID-19 Positive	Male	56 Years	Caucasian
+ADIRP0002059_20200618_Frblood_Repertorie_TCRB	COVID-19 Positive			Unknown racial group
+860011140_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+1022_TCRB				
+1566486BW_TCRB	COVID-19 Positive	Female	21 Years	Caucasian
+KH20-11810_TCRB	COVID-19 Positive	Female	78 Years	Caucasian
+860011352_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+1001_TCRB				
+KHBR20-00093_TCRB	COVID-19 Positive	Male	86 Years	Black or African American
+BS-EQ-07-T2-replacement_TCRB		Male	61 Years	Caucasian
+KH20-09995_TCRB	COVID-19 Positive	Male	88 Years	Caucasian
+ADIRP0000392_TCRB	COVID-19 Positive	Female	48 Years	Caucasian
+860011284_TCRB	COVID-19 Positive	Male	42 Years	Hispanic
+681365BW_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+KH20-11295_TCRB	COVID-19 Positive	Male	62 Years	Black or African American
+BS-EQ-0008-T1-replacement_TCRB	COVID-19 Positive	Male	70 Years	Caucasian
+ADIRP0000844_20200529_Frblood_Repertorie_TCRB	COVID-19 Positive	Female	34 Years	Caucasian
+KH20-09748_TCRB	COVID-19 Positive	Female	79 Years	Caucasian
+INCOV018-CV-3_TCRB	COVID-19 Positive	Male	69 Years	Caucasian
+BS-EQ-0006-T2-replacement_TCRB	COVID-19 Positive	Female	37 Years	Caucasian
+INCOV073-BL-3_TCRB	COVID-19 Positive	Female	55 Years	Unknown racial group
+KH20-11702_TCRB	COVID-19 Positive	Male		Caucasian
+BS-GIGI_51-replacement_TCRB	COVID-19 Positive	Male	74 Years	Caucasian
+ADIR0000014_TCRB	COVID-19 Positive	Male	43 Years	Caucasian
+BS-HS-97_TCRB				
+BS-GIGI_70-replacement_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+ADIRP0001950_TCRB	COVID-19 Positive	Female	54 Years	Hispanic
+KH20-09679_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+KH20-09969_TCRB	COVID-19 Positive	Male	83 Years	Black or African American
+KHBR20-00102_TCRB	COVID-19 Positive	Female	56 Years	Caucasian
+860011489_TCRB	COVID-19 Positive	Male	67 Years	Caucasian
+BS-GIGI_24-replacement_TCRB		Male	79 Years	Caucasian
+KH20-09697_TCRB	COVID-19 Positive	Male	63 Years	Caucasian
+ADIRP0000026_20200515_Frblood_Repertorie_TCRB	COVID-19 Positive	Female	65 Years	Caucasian
+860011223_TCRB	COVID-19 Positive	Female	53 Years	Hispanic
+860011290_TCRB	COVID-19 Positive	Male	57 Years	Hispanic
+BS-HS-210_TCRB				
+BS-HS-118_TCRB				
+3533BW_20200413_Unenr_immunoSEQ_TCRB	COVID-19 Positive	Female	32 Years	Unknown racial group
+ADIRP0002668_TCRB		Female	54 Years	Caucasian
+INCOV075-AC-3_TCRB	COVID-19 Positive	Male	57 Years	Asian or Pacific Islander
+KH20-11691_TCRB	COVID-19 Positive	Female	55 Years	Caucasian
+860011321_TCRB				
+989003BW_TCRB	COVID-19 Positive	Male	51 Years	Caucasian
+INCOV018-AC-5_TCRB	COVID-19 Positive	Male	69 Years	Caucasian
+994-CR-660_TCRB				
+INCOV005-BL-5_TCRB	COVID-19 Positive	Male	75 Years	Caucasian
+ADIRP0000142_20200511_Frblood_Repertorie_TCRB	COVID-19 Positive	Female	66 Years	Asian or Pacific Islander
+BS-HS-0149_TCRB				
+BS-GIGI_25-replacement_TCRB	COVID-19 Positive	Male	70 Years	Caucasian
+KH20-09660_TCRB	COVID-19 Positive	Male	64 Years	
+INCOV031-AC-3_TCRB	COVID-19 Positive	Male	47 Years	Unknown racial group
+ADIRP0001500_20200611_Frblood_Repertorie_TCRB	COVID-19 Positive	Male	55 Years	Asian or Pacific Islander
+860011220_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+KH20-11292_TCRB	COVID-19 Positive	Male	59 Years	Caucasian
+550042377_TCRB	COVID-19 Positive	Male	52 Years	Black or African American
+KH20-11809_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+860011205_TCRB	COVID-19 Positive	Male	45 Years	Caucasian
+KH20-09952_TCRB	COVID-19 Positive	Female	71 Years	Caucasian
+ADIRP0000875_TCRB	COVID-19 Positive	Female	36 Years	Caucasian
+860011258_TCRB	COVID-19 Positive	Male	29 Years	Caucasian
+BS-EQ-14-T3-replacement_TCRB	COVID-19 Positive	Male	55 Years	Caucasian
+KHBR20-00106_TCRB	COVID-19 Positive	Male	52 Years	Hispanic
+INCOV014-BL-5_TCRB	COVID-19 Positive	Male	76 Years	Caucasian
+860011310_TCRB	COVID-19 Positive	Female	88 Years	Caucasian
+KH20-09987_TCRB	COVID-19 Positive	Female	75 Years	Caucasian
+KH20-09753_TCRB	COVID-19 Positive	Female	55 Years	Caucasian
+1060_TCRB				
+BS-GN-0012-T0-replacement_TCRB	COVID-19 Positive	Male	58 Years	Caucasian
+ADIRP0000511_TCRB	COVID-19 Positive	Male	29 Years	Caucasian
+KHBR20-00085_TCRB	COVID-19 Positive	Male	74 Years	Caucasian
+KH20-09671_TCRB	COVID-19 Positive	Male	88 Years	Caucasian
+BS-EQ-35-T1_BS-GIGI-65-replacement_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+INCOV074-AC-3_TCRB	COVID-19 Positive	Female	30 Years	Caucasian
+550043167_TCRB	COVID-19 Positive	Male	65 Years	Caucasian
+1055_TCRB				
+4445BW_20200417_PBMC_unsorted_cc1000000_ImmunRACE_052220_001_TCRB	COVID-19 Positive	Female	50 Years	Unknown racial group
+BS-HS-48_TCRB				
+860011110_TCRB	COVID-19 Positive	Female	48 Years	Caucasian
+860011246_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+ADIRP0001121_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+ADIRP0000359_20200527_Frblood_Repertorie_TCRB	COVID-19 Positive	Female	57 Years	Caucasian
+997-CC-1266_TCRB				
+KHBR20-00088_TCRB	COVID-19 Positive	Female	40 Years	Black or African American
+KH20-09963_TCRB	COVID-19 Positive	Male	63 Years	Caucasian
+860011244_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+BS-HS-18_TCRB				
+BS-GIGI_73-replacement_TCRB	COVID-19 Positive	Female	77 Years	Caucasian
+1043_TCRB				
+BS-EQ-35-T0-replacement_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+860011286_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+INCOV016-CV-3_TCRB	COVID-19 Positive	Male	37 Years	Asian or Pacific Islander
+ADIRP0000190_TCRB	COVID-19 Positive	Female	37 Years	Caucasian
+1222568BW_TCRB	COVID-19 Positive	Female	38 Years	Unknown racial group
+BS-HS-47_TCRB				
+KH20-11307_TCRB	COVID-19 Positive	Male	79 Years	Caucasian
+1328-CM-933_TCRB				
+BS-GIGI_94-replacement_TCRB		Female	89 Years	Caucasian
+860011216_TCRB	COVID-19 Positive	Male	38 Years	Caucasian
+KH20-11664_TCRB	COVID-19 Positive	Female	56 Years	Black or African American
+KHBR20-00174_TCRB	COVID-19 Positive	Male	41 Years	Caucasian
+KH20-11671_TCRB	COVID-19 Positive	Male	75 Years	Caucasian
+6501BW_20200420_PBMC_unsorted_cc1000000_ImmunRACE_052220_007_TCRB	COVID-19 Positive	Female	61 Years	Unknown racial group
+550043905_TCRB	COVID-19 Positive	Male	86 Years	Caucasian
+ADIRP0002576_TCRB		Female	25 Years	Hispanic
+ADIRP0001079_TCRB	COVID-19 Positive	Female	60 Years	Caucasian
+KH20-11666_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+KH20-09690_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+BS-EQ-36-T0-replacement_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+476909BW_TCRB	COVID-19 Positive	Male	54 Years	Caucasian
+7477BW_20200416_PBMC_unsorted_cc1000000_ImmunRACE_050820_001_gDNA_TCRB	COVID-19 Positive	Male	36 Years	Unknown racial group
+KH20-11697_TCRB	COVID-19 Positive	Female	41 Years	Caucasian
+KH20-09710_TCRB	COVID-19 Positive	Female	59 Years	Black or African American
+BS-EQ-28-T1-replacement_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+1026_TCRB				
+BS-GIGI_74-replacement_TCRB	COVID-19 Positive	Female	49 Years	Caucasian
+KH20-09956_TCRB	COVID-19 Positive	Male	75 Years	Caucasian
+ADIRP0001066_TCRB	COVID-19 Positive	Male	18 Years	Hispanic
+ADIRP0000251_TCRB	COVID-19 Positive	Female	56 Years	Caucasian
+KH20-09700_TCRB	COVID-19 Positive	Female	69 Years	Black or African American
+860011204_TCRB	COVID-19 Positive	Female	86 Years	Caucasian
+1058_TCRB				
+BS-GN-0014-T0-replacement_TCRB	COVID-19 Positive	Male	53 Years	Caucasian
+860011234_TCRB	COVID-19 Positive	Male	86 Years	Caucasian
+BS-GIGI_58-replacement_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+KHBR20-00116_TCRB	COVID-19 Positive	Male	53 Years	Black or African American
+KH20-09730_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+KH20-11668_TCRB	COVID-19 Positive	Female	55 Years	Caucasian
+860011487_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+550040140_TCRB	COVID-19 Positive	Male	68 Years	Caucasian
+BS-HS-70_TCRB				
+550044000_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+BS-EQ-32-T1-replacement_TCRB	COVID-19 Positive	Male	24 Years	Caucasian
+INCOV067-BL-3_TCRB	COVID-19 Positive	Female	41 Years	Caucasian
+BS-EQ-23-T1-replacement_TCRB	COVID-19 Positive	Male	49 Years	Caucasian
+BS-GIGI_72-replacement_TCRB	COVID-19 Positive	Male	55 Years	Caucasian
+L-I-replacement_TCRB				
+BS-GIGI_35-replacement_TCRB	COVID-19 Positive	Male	80 Years	Caucasian
+ADIRP0000383_20200527_Frblood_Repertorie_TCRB	COVID-19 Positive	Female	35 Years	Caucasian
+5314BW_20200420_PBMC_unsorted_cc1000000_ImmunRACE_052220_006_TCRB	COVID-19 Positive	Male	51 Years	Unknown racial group
+1566837BW_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+BS-HS-130_TCRB				
+550043936-1_TCRB	COVID-19 Positive	Male	59 Years	
+INCOV060-BL-3_TCRB	COVID-19 Positive	Female	39 Years	Unknown racial group
+1009-EKB-156_TCRB				
+KH20-11305_TCRB	COVID-19 Positive	Male	81 Years	Black or African American
+KH20-11699_TCRB	COVID-19 Positive	Female	80 Years	Caucasian
+BS-EQ-30-T2-replacement_TCRB	COVID-19 Positive	Male	53 Years	Caucasian
+1240-AS-852_TCRB				
+BS-HS-41_TCRB				
+ADIRP0002436_TCRB	COVID-19 Positive	Male	40 Years	Hispanic
+KH20-11679_TCRB	COVID-19 Positive	Female	27 Years	Caucasian
+BS-EQ-43-T0-replacement_TCRB	COVID-19 Positive	Male	54 Years	Caucasian
+550042395_TCRB	COVID-19 Positive	Female	56 Years	Caucasian
+1059_TCRB				
+BS-HS-62_TCRB				
+BS-HS-128_TCRB				
+550043973_TCRB	COVID-19 Positive	Female	69 Years	Caucasian
+BS-HS-224_TCRB				
+BS-HS-157_TCRB				
+BS-HS-0203_TCRB				
+860011208_TCRB	COVID-19 Positive	Female	41 Years	Hispanic
+INCOV019-AC-5_TCRB	COVID-19 Positive	Male	81 Years	Caucasian
+860011488_TCRB	COVID-19 Positive	Female	35 Years	Caucasian
+KHBR20-00105_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+BS-HS-222_TCRB				
+KH20-11665_TCRB	COVID-19 Positive	Male	78 Years	Caucasian
+550043908_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+1134-KP-366_TCRB				
+INCOV081-BL-3_TCRB	COVID-19 Positive	Male	23 Years	Unknown racial group
+860011288_TCRB		Female	89 Years	Caucasian
+KH20-09997_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+KHBR20-00158_TCRB	COVID-19 Positive	Female	67 Years	Caucasian
+1031_TCRB				
+860011377_TCRB	COVID-19 Positive	Female	59 Years	Caucasian
+6499BW_20200424_PBMC_unsorted_cc1000000_ImmunRACE_052220_009_TCRB	COVID-19 Positive	Female	62 Years	Unknown racial group
+BS-HS-0201_TCRB				
+1979BW_20200420_PBMC_unsorted_cc1000000_ImmunRACE_052220_005_TCRB	COVID-19 Positive	Female	70 Years	Unknown racial group
+KH20-09981_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+KH20-11686_TCRB	COVID-19 Positive	Male	84 Years	Caucasian
+KH20-11808_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+860011328_TCRB				
+860011124_TCRB	COVID-19 Positive	Male	75 Years	Hispanic
+INCOV086-BL-3_TCRB	COVID-19 Positive	Male	71 Years	Caucasian
+ADRIP0000160_TCRB	COVID-19 Positive	Female	29 Years	Caucasian
+BS-GIGI_79-replacement_TCRB		Male	82 Years	Caucasian
+1566889BW_TCRB	COVID-19 Positive	Female	42 Years	Caucasian
+KHBR20-00107_TCRB	COVID-19 Positive	Female	67 Years	Caucasian
+860011353_TCRB	COVID-19 Positive	Male	56 Years	Hispanic
+1133-CG-840_TCRB				
+BS-GIGI_40-replacement_TCRB	COVID-19 Positive	Male	49 Years	Caucasian
+1566746BW_TCRB	COVID-19 Positive	Female	21 Years	Native American or Alaska Native
+BS-GIGI_28-replacement_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+BS-GIGI_43-replacement_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+234129BW_TCRB	COVID-19 Positive	Male	68 Years	Caucasian
+860011224_TCRB	COVID-19 Positive	Female	63 Years	Caucasian
+860011388_TCRB	COVID-19 Positive	Female	77 Years	Caucasian
+KH20-09727_TCRB	COVID-19 Positive	Female	63 Years	Black or African American
+INCOV071-BL-3_TCRB	COVID-19 Positive	Female	80 Years	Caucasian
+BS-GIGI_32-replacement_TCRB	COVID-19 Positive	Male	75 Years	Caucasian
+BS-EQ-33-T3-replacement_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+BS-EQ-12-T2-replacement_TCRB	COVID-19 Positive	Male	45 Years	Caucasian
+KH20-09986_TCRB	COVID-19 Positive	Female	45 Years	Caucasian
+BS-HS-167_TCRB				
+KHBR20-00090_TCRB	COVID-19 Positive	Male	89 Years	Black or African American
+BS-GIGI_81-replacement_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+INCOV049-AC-3_TCRB	COVID-19 Positive	Male	82 Years	Caucasian
+ADIRP0002514_TCRB	COVID-19 Positive	Female	19 Years	Caucasian
+ADIRP0002474_TCRB	COVID-19 Positive	Male	42 Years	Caucasian
+BS-HS-24_TCRB				
+860011341_TCRB	COVID-19 Positive	Male	50 Years	Hispanic
+860011359_TCRB	COVID-19 Positive	Male	75 Years	Caucasian
+5649BW_20200416_PBMC_unsorted_cc1000000_ImmunRACE_050820_003_gDNA_TCRB	COVID-19 Positive	Male	73 Years	Unknown racial group
+ADIRP0001922_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+KH20-09994_TCRB	COVID-19 Positive	Female	24 Years	Black or African American
+983-MG-1060_TCRB				
+BS-GIGI_86-replacement_TCRB	COVID-19 Positive	Female	62 Years	Caucasian
+860011339_TCRB	COVID-19 Positive	Male	57 Years	Caucasian
+BS-GIGI_80-replacement_TCRB	COVID-19 Positive	Male	82 Years	Caucasian
+INCOV059-BL-3_TCRB	COVID-19 Positive	Female	82 Years	Caucasian
+BS-HS-207_TCRB				
+KHBR20-00179_TCRB	COVID-19 Positive	Male	74 Years	Caucasian
+KH20-09734_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+KHBR20-00083_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+KH20-11703_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+ADIRP0001555_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+KH20-09983_TCRB	COVID-19 Positive	Male	87 Years	Caucasian
+550041349_TCRB	COVID-19 Positive	Female	74 Years	Caucasian
+KHBR20-00182_TCRB	COVID-19 Positive	Male	74 Years	Caucasian
+1034_TCRB				
+KH20-09948_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+550041393_TCRB	COVID-19 Positive	Male	67 Years	Caucasian
+550041374_TCRB	COVID-19 Positive	Female	85 Years	Caucasian
+860011345_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+BS-HS-0188_TCRB				
+860011211_TCRB	COVID-19 Positive	Male	40 Years	Hispanic
+KHBR20-00128_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+KH20-09964_TCRB	COVID-19 Positive	Female	80 Years	Caucasian
+KHBR20-00104_TCRB	COVID-19 Positive	Female	45 Years	Black or African American
+550042410_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+D001005699_20200514_Unenr_immunoSEQ_TCRB	COVID-19 Positive	Male	67 Years	Caucasian
+BS-EQ-34-T0-replacement_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+860011496_TCRB	COVID-19 Positive	Female	59 Years	Caucasian
+860011354_TCRB	COVID-19 Positive	Female	39 Years	Caucasian
+BS-HS-183_TCRB				
+ADIRP0000117_TCRB	COVID-19 Positive	Female	47 Years	Caucasian
+INCOV036-BL-3_TCRB	COVID-19 Positive	Male	51 Years	Caucasian
+1032_TCRB				
+860011209_TCRB	COVID-19 Positive	Male	48 Years	
+1247-DCM-727_TCRB				
+110047437_TCRB	COVID-19 Positive	Male	65 Years	Caucasian
+BS-GIGI_44-replacement_TCRB	COVID-19 Positive	Female	54 Years	Caucasian
+4251BW_TCRB	COVID-19 Positive	Female	59 Years	Caucasian
+BS-HS-191_TCRB				
+INCOV005-CV-3_TCRB	COVID-19 Positive	Male	75 Years	Caucasian
+550043971_TCRB	COVID-19 Positive	Male	67 Years	Black or African American
+860011243_TCRB	COVID-19 Positive	Female	80 Years	Caucasian
+1445BW_TCRB	COVID-19 Positive	Female	54 Years	Caucasian
+INCOV039-BL-3_TCRB	COVID-19 Positive	Female	38 Years	
+INCOV032-BL-3_TCRB	COVID-19 Positive	Male	63 Years	Unknown racial group
+1049_TCRB				
+860011336_TCRB	COVID-19 Positive	Female	85 Years	Caucasian
+BS-GIGI_64-replacement_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+INCOV020-AC-5_TCRB	COVID-19 Positive	Male	55 Years	Unknown racial group
+ADRIP500001_unsorted_cc3000000_ImmunRACE_043020_001_gDNA_TCRB	COVID-19 Positive			Unknown racial group
+1064_TCRB				
+INCOV067-AC-3_TCRB	COVID-19 Positive	Female	41 Years	Caucasian
+INCOV026-BL-3_TCRB	COVID-19 Positive	Male	33 Years	Unknown racial group
+KH20-09684_TCRB	COVID-19 Positive	Male	67 Years	Black or African American
+BS-HS-223_TCRB				
+ADIRP0002392_TCRB		Female	51 Years	Hispanic
+INCOV079-AC-3_TCRB	COVID-19 Positive	Female	83 Years	Caucasian
+KH20-09733_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+KH20-11696_TCRB	COVID-19 Positive	Male	69 Years	Caucasian
+860011326_TCRB		Female	58 Years	Caucasian
+KHBR20-00079_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+KHBR20-00133_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+INCOV011-AC-5_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+BS-GIGI_16-replacement_TCRB	COVID-19 Positive	Male	78 Years	Caucasian
+1995BW_20200520_Unenr_gDNA_ImmunoSEQ_TCRB	COVID-19 Positive	Female	29 Years	Unknown racial group
+ADIRP0000258_TCRB		Female	50 Years	Caucasian
+INCOV027-BL-3_TCRB	COVID-19 Positive	Female	38 Years	Asian or Pacific Islander
+KH20-11674_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+INCOV066-BL-3_TCRB	COVID-19 Positive	Male	53 Years	Caucasian
+860011491_TCRB	COVID-19 Positive	Male	88 Years	Caucasian
+INCOV056-AC-3_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+860011451_TCRB		Female	85 Years	Caucasian
+1039_TCRB				
+860011138_TCRB	COVID-19 Positive	Male	53 Years	Caucasian
+1566515BW_TCRB	COVID-19 Positive	Female	32 Years	Caucasian
+INCOV062-AC-3_TCRB	COVID-19 Positive	Female	77 Years	Asian or Pacific Islander
+860011249_TCRB	COVID-19 Positive	Male	42 Years	Caucasian
+INCOV069-BL-3_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+860011346_TCRB				
+BS-GIGI_95-replacement_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+860011305_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+INCOV055-BL-3_TCRB	COVID-19 Positive	Female	67 Years	Caucasian
+860011350_TCRB	COVID-19 Positive	Male	67 Years	Caucasian
+550042259_TCRB	COVID-19 Positive	Male	58 Years	Black or African American
+KH20-09722_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+1012_TCRB				
+INCOV039-AC-3_TCRB	COVID-19 Positive	Female	38 Years	
+BS-HS-221_TCRB				
+ADIRP0000439_TCRB	COVID-19 Positive	Male	29 Years	Asian or Pacific Islander
+860011490_TCRB	COVID-19 Positive	Male	79 Years	Caucasian
+BS-HS-52_TCRB				
+2870BW_20200413_Unenr_gDNA_ImmunoSEQ_TCRB	COVID-19 Positive	Female	27 Years	Unknown racial group
+ADIRP0001032_TCRB		Female	79 Years	Caucasian
+ADIRP0001163_TCRB	COVID-19 Positive	Female	51 Years	Caucasian
+KH20-11645_TCRB	COVID-19 Positive	Male	66 Years	Black or African American
+KH20-11675_TCRB	COVID-19 Positive	Female	75 Years	Caucasian
+KH20-09719_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+BS-GIGI_14-replacement_TCRB	COVID-19 Positive	Male	55 Years	Caucasian
+INCOV056-BL-3_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+BS-HS-140_TCRB				
+INCOV009-BL-5_TCRB	COVID-19 Positive	Female	65 Years	Asian or Pacific Islander
+KHBR20-00120_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+P0008111_TCRB				
+KH20-11652_TCRB	COVID-19 Positive	Female	27 Years	Caucasian
+1063_TCRB				
+550040030_TCRB	COVID-19 Positive	Male	84 Years	Caucasian
+ADIRP0001841_TCRB		Female	53 Years	Caucasian
+BS-GIGI_06-replacement_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+5876BW_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+KH20-09715_TCRB	COVID-19 Positive	Female	69 Years	Caucasian
+INCOV054-BL-3_TCRB	COVID-19 Positive	Female	72 Years	Caucasian
+860011392_TCRB	COVID-19 Positive	Female	78 Years	Caucasian
+1061_TCRB				
+KH20-11700_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+3739BW_20200505_PBMC_unsorted_cc1000000_ImmunRACE_052220_008_TCRB	COVID-19 Positive	Male	53 Years	Unknown racial group
+1566510BW_TCRB	COVID-19 Positive	Female	43 Years	Caucasian
+ADIRP0002300_TCRB	COVID-19 Positive	Male	35 Years	Asian or Pacific Islander
+ADIRP0000052_TCRB	COVID-19 Positive	Male	40 Years	Caucasian
+BS-EQ-36-T1-replacement_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+550042523_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+KHBR20-00076_TCRB	COVID-19 Positive	Female	73 Years	Black or African American
+BS-HS-53_TCRB				
+BS-HS-72_TCRB				
+980-DS-1171_TCRB				
+1015_TCRB				
+BS-HS-03_TCRB				
+BS-EQ-0016-T1-replacement_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+550041125_TCRB	COVID-19 Positive	Female	65 Years	Caucasian
+INCOV035-AC-3_TCRB	COVID-19 Positive	Male	61 Years	Asian or Pacific Islander
+ADIRP0000187_TCRB		Male	74 Years	Caucasian
+ADIRP0000975_TCRB	COVID-19 Positive	Female	49 Years	Caucasian
+1256-CI-238_TCRB				
+INCOV008-BL-5_TCRB	COVID-19 Positive	Male	78 Years	Black or African American
+BS-HS-0147_TCRB				
+ADIRP0000083_20200512_Frblood_Repertorie_TCRB		Female	35 Years	Asian or Pacific Islander
+860011228_TCRB	COVID-19 Positive	Male	78 Years	Caucasian
+BS-HS-133_TCRB				
+KHBR20-00166_TCRB	COVID-19 Positive	Female	65 Years	Black or African American
+BS-GIGI_29-replacement_TCRB		Female	73 Years	Caucasian
+BS-EQ-18-T1-replacement_TCRB	COVID-19 Positive	Male	59 Years	Caucasian
+1062_TCRB				
+KH20-09975_TCRB	COVID-19 Positive	Male	65 Years	Caucasian
+BS-GIGI_34-replacement_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+860011207_TCRB	COVID-19 Positive	Female	86 Years	Caucasian
+BS-GIGI_87-replacement_TCRB	COVID-19 Positive	Female	68 Years	Caucasian
+KH20-09985_TCRB	COVID-19 Positive	Female	72 Years	Caucasian
+INCOV066-AC-3_TCRB	COVID-19 Positive	Male	53 Years	Caucasian
+KH20-09968_TCRB	COVID-19 Positive	Male	63 Years	Caucasian
+ADIRP0000067_TCRB	COVID-19 Positive	Female	33 Years	Caucasian
+BS-HS-158_TCRB				
+BS-HS-38_TCRB				
+BS-HS-160_TCRB				
+860011347_TCRB	COVID-19 Positive	Female	87 Years	Caucasian
+KH20-11646_TCRB	COVID-19 Positive	Male	45 Years	Black or African American
+KH20-09960_TCRB	COVID-19 Positive	Female	58 Years	Caucasian
+550041451_TCRB	COVID-19 Positive	Female	81 Years	Caucasian
+KHBR20-00180_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+KH20-11669_TCRB	COVID-19 Positive	Female	33 Years	Caucasian
+ADIRP0002562_TCRB	COVID-19 Positive	Male	47 Years	Caucasian
+BS-GIGI_27-replacement_TCRB	COVID-19 Positive	Female	62 Years	Caucasian
+550043916_TCRB	COVID-19 Positive	Male	59 Years	Caucasian
+860011259_TCRB	COVID-19 Positive	Male	26 Years	Caucasian
+BS-GN-01-T0-replacement_TCRB	COVID-19 Positive	Male	35 Years	Caucasian
+550042451_TCRB	COVID-19 Positive	Female	32 Years	Black or African American
+ADIR0000086_TCRB	COVID-19 Positive	Female	35 Years	Caucasian
+585189BW_TCRB	COVID-19 Positive	Female	52 Years	Native American or Alaska Native
+KH20-09666_TCRB	COVID-19 Positive	Male	49 Years	Asian or Pacific Islander
+BS-HS-194_TCRB				
+BS-HS-0173_TCRB				
+860011222_TCRB	COVID-19 Positive	Male	60 Years	Hispanic
+BS-HS-21_TCRB				
+KH20-11643_TCRB	COVID-19 Positive	Female	79 Years	Caucasian
+BS-EQ-0027-T2-replacement_TCRB		Male	78 Years	Caucasian
+BS-GN-06-T0-replacement_TCRB	COVID-19 Positive	Female	71 Years	Caucasian
+BS-GIGI_85-replacement_TCRB	COVID-19 Positive	Female	80 Years	Caucasian
+550043928_TCRB	COVID-19 Positive	Male	84 Years	
+860011120_TCRB	COVID-19 Positive	Male	79 Years	Caucasian
+KHBR20-00123_TCRB	COVID-19 Positive	Male	48 Years	Black or African American
+1566319BW_TCRB	COVID-19 Positive	Female	31 Years	Caucasian
+KHBR20-00168_TCRB	COVID-19 Positive	Male	69 Years	Black or African American
+ADIRP0000342_TCRB	COVID-19 Positive	Female	59 Years	Caucasian
+860011248_TCRB	COVID-19 Positive	Male	38 Years	Caucasian
+KH20-11673_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+ADIRP0001388_TCRB	COVID-19 Positive	Male	28 Years	Caucasian
+KHBR20-00129_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+INCOV001-AC-5_TCRB	COVID-19 Positive	Female	77 Years	Caucasian
+BS-GIGI_78-replacement_TCRB	COVID-19 Positive	Male	58 Years	Caucasian
+KH20-09947_TCRB	COVID-19 Positive	Female	53 Years	Caucasian
+BS-GN-0011-T0-replacement_TCRB	COVID-19 Positive	Female	37 Years	Caucasian
+INCOV015-AC-5_TCRB	COVID-19 Positive	Female	67 Years	Asian or Pacific Islander
+860011356_TCRB	COVID-19 Positive	Male	64 Years	Caucasian
+KH20-11814_TCRB	COVID-19 Positive	Male	71 Years	Black or African American
+BS-HS-0176_TCRB				
+550042447_TCRB	COVID-19 Positive	Male	63 Years	Caucasian
+7517BW_20200518_Unenr_gDNA_ImmunoSEQ_TCRB	COVID-19 Positive	Male	76 Years	Unknown racial group
+KH20-11304_TCRB	COVID-19 Positive	Female	73 Years	Caucasian
+BS-EQ-0021-T0-replacement_TCRB	COVID-19 Positive	Male	79 Years	Caucasian
+ADIRP0000376_TCRB	COVID-19 Positive	Female	35 Years	Mixed racial group
+550042607_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+BS-HS-119_TCRB				
+860011309_TCRB	COVID-19 Positive	Female	87 Years	Caucasian
+BS-GIGI_84-replacement_TCRB	COVID-19 Positive	Female	83 Years	Caucasian
+ADIRP0000092_20200514_Frblood_Repertorie_TCRB	COVID-19 Positive	Male	58 Years	Caucasian
+BS-GN-0002-T0-replacement_TCRB	COVID-19 Positive	Male	45 Years	Caucasian
+860011238_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+KHBR20-00091_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+KHBR20-00096_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+INCOV028-BL-3_TCRB	COVID-19 Positive	Male	64 Years	Asian or Pacific Islander
+BS-HS-64_TCRB				
+KH20-11303_TCRB	COVID-19 Positive	Male	57 Years	Black or African American
+BS-EQ-15-T1-replacement_TCRB	COVID-19 Positive	Male	53 Years	Caucasian
+KH20-09967_TCRB	COVID-19 Positive	Female	68 Years	Caucasian
+550041288_TCRB	COVID-19 Positive	Female	68 Years	Caucasian
+1015-LR-446_TCRB				
+ADIRP0002002_TCRB		Male	55 Years	Caucasian
+860011127_TCRB	COVID-19 Positive	Female	44 Years	Caucasian
+860011132_TCRB	COVID-19 Positive	Male	84 Years	Caucasian
+ADIRP0002581_TCRB	COVID-19 Positive	Female	46 Years	Caucasian
+1050_TCRB				
+KH20-09661_TCRB	COVID-19 Positive	Male	50 Years	Black or African American
+BS-EQ-0024-T1-replacement_TCRB	COVID-19 Positive	Female	54 Years	Caucasian
+BS-GN-0016-T0-replacement_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+BS-GIGI_53-replacement_TCRB	COVID-19 Positive	Male	76 Years	Caucasian
+1003_TCRB				
+KHBR20-00086_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+KH20-09978_TCRB	COVID-19 Positive	Male	84 Years	Caucasian
+860011212_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+ADIRP0002686_20200623_Unenr_gDNA_ImmunoSEQ_TCRB	COVID-19 Positive			Unknown racial group
+ADIRP0001717_TCRB	COVID-19 Positive	Female	55 Years	Caucasian
+KH20-11680_TCRB	COVID-19 Positive	Female	54 Years	Native American or Alaska Native
+BS-HS-08_TCRB				
+BS-GIGI_75-replacement_TCRB	COVID-19 Positive	Female	68 Years	Caucasian
+KH20-09754_TCRB	COVID-19 Positive	Male	34 Years	Caucasian
+860011316_TCRB	COVID-19 Positive	Male	57 Years	Caucasian
+KH20-11682_TCRB	COVID-19 Positive	Female	86 Years	Caucasian
+3977BW_TCRB	COVID-19 Positive	Female	63 Years	Caucasian
+860011317_TCRB	COVID-19 Positive	Male	50 Years	Hispanic
+860011335_TCRB	COVID-19 Positive	Female	88 Years	Caucasian
+INCOV019-BL-5_TCRB	COVID-19 Positive	Male	81 Years	Caucasian
+INCOV012-AC-5_TCRB	COVID-19 Positive	Female	73 Years	Caucasian
+ADIRP0001185_TCRB	COVID-19 Positive	Female	44 Years	Caucasian
+550043943_TCRB	COVID-19 Positive	Female	62 Years	Black or African American
+ADIRP0001786_TCRB	COVID-19 Positive	Male	33 Years	Hispanic
+550042183_TCRB	COVID-19 Positive	Male	75 Years	Caucasian
+KH20-11654_TCRB	COVID-19 Positive	Female	67 Years	Caucasian
+BS-HS-123_TCRB				
+1041_TCRB				
+ADIRP0002464_TCRB	COVID-19 Positive	Female	46 Years	Hispanic
+BS-EQ-37-T0-replacement_TCRB	COVID-19 Positive	Male	68 Years	Caucasian
+BS-EQ-0023-T0-replacement_TCRB	COVID-19 Positive	Male	49 Years	Caucasian
+KH20-09966_TCRB	COVID-19 Positive	Female	65 Years	Caucasian
+860011494_TCRB	COVID-19 Positive	Male	27 Years	Hispanic
+eEE225_5_1027BW_20200410_unenriched-1_TCRB	COVID-19 Positive	Male	67 Years	Unknown racial group
+KH20-09949_TCRB	COVID-19 Positive	Female	88 Years	Caucasian
+1051_TCRB				
+860011495_TCRB	COVID-19 Positive	Female	34 Years	
+BS-HS-0204_TCRB				
+BS-GN-0008-T0-replacement_TCRB	COVID-19 Positive	Male	53 Years	Caucasian
+ADIRP0001202_TCRB	COVID-19 Positive	Female	54 Years	Caucasian
+BS-GIGI_36-replacement_TCRB	COVID-19 Positive	Female	70 Years	Caucasian
+550042351_TCRB	COVID-19 Positive	Female	82 Years	Caucasian
+860011497_TCRB	COVID-19 Positive	Female	42 Years	Caucasian
+ADIRP0000919_TCRB	COVID-19 Positive	Male	55 Years	Caucasian
+KH20-09694_TCRB	COVID-19 Positive	Male	63 Years	Caucasian
+550043911_TCRB	COVID-19 Positive	Female	78 Years	Caucasian
+KH20-09656_TCRB	COVID-19 Positive	Male	67 Years	Caucasian
+KHBR20-00087_TCRB	COVID-19 Positive	Female	82 Years	Caucasian
+ADIRP0002010_TCRB	COVID-19 Positive	Female	47 Years	Hispanic
+INCOV063-AC-3_TCRB	COVID-19 Positive	Female	81 Years	Caucasian
+KH20-11301_TCRB	COVID-19 Positive	Male	56 Years	Caucasian
+1011_TCRB				
+INCOV023-CV-3_TCRB	COVID-19 Positive	Female	71 Years	Black or African American
+INCOV080-AC-3_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+KHBR20-00098_TCRB	COVID-19 Positive	Male	89 Years	Black or African American
+INCOV041-BL-3_TCRB	COVID-19 Positive	Male	65 Years	Caucasian
+860011119_TCRB	COVID-19 Positive	Female	65 Years	Caucasian
+KHBR20-00112_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+KHBR20-00157_TCRB	COVID-19 Positive	Male	56 Years	Caucasian
+INCOV050-BL-3_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+ADIRP0000347_TCRB	COVID-19 Positive	Female	37 Years	Caucasian
+INCOV072-BL-3_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+BS-EQ-0003-T1-replacement_TCRB	COVID-19 Positive	Female	40 Years	Caucasian
+ADIRP0001920_TCRB		Female	63 Years	Caucasian
+KHBR20-00184_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+860011285_TCRB		Female	85 Years	Caucasian
+INCOV051-BL-3_TCRB	COVID-19 Positive	Male	34 Years	Unknown racial group
+BS-HS-0195_TCRB				
+KH20-09683_TCRB	COVID-19 Positive	Male	28 Years	Black or African American
+KH20-11642_TCRB	COVID-19 Positive	Female	28 Years	Caucasian
+BS-HS-208_TCRB				
+1033_TCRB				
+KH20-09725_TCRB	COVID-19 Positive	Male	69 Years	Caucasian
+BS-EQ-0002-T2-replacement_TCRB	COVID-19 Positive	Male	55 Years	Caucasian
+860011245_TCRB	COVID-19 Positive	Female	86 Years	Caucasian
+860011348_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+1566829BW_TCRB	COVID-19 Positive	Male	68 Years	
+KHBR20-00084_TCRB	COVID-19 Positive	Female	57 Years	Black or African American
+BS-HS-46_TCRB				
+BS-GIGI_15-replacement_TCRB	COVID-19 Positive	Female	80 Years	Caucasian
+KHBR20-00177_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+860011329_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+KHBR20-00143_TCRB	COVID-19 Positive	Male	64 Years	Black or African American
+2402BW_TCRB	COVID-19 Positive	Female	79 Years	Caucasian
+BS-HS-73_TCRB				
+860011230_TCRB		Female	61 Years	Caucasian
+860011264_TCRB	COVID-19 Positive	Male	58 Years	Caucasian
+KHBR20-00204_TCRB	COVID-19 Positive	Female	81 Years	Caucasian
+860011462_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+KHBR20-00097_TCRB	COVID-19 Positive	Male	41 Years	Caucasian
+eEE225_6_2162BW_20200409_unenriched-1_TCRB	COVID-19 Positive	Female	79 Years	Unknown racial group
+ADIRP0001110_TCRB	COVID-19 Positive	Female	40 Years	Caucasian
+BS-EQ-26-T1-replacement_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+KH20-09717_TCRB	COVID-19 Positive	Male	49 Years	Caucasian
+INCOV006-AC-5_TCRB	COVID-19 Positive	Male	26 Years	Unknown racial group
+BS-EQ-0014-T1-replacement_TCRB	COVID-19 Positive	Male	55 Years	Caucasian
+INCOV052-BL-3_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+INCOV047-BL-3_TCRB	COVID-19 Positive	Male	61 Years	Caucasian
+BS-GIGI_89-replacement_TCRB		Male	89 Years	Caucasian
+BS-GN-13-T0-replacement_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+860011387_TCRB	COVID-19 Positive	Female	63 Years	Caucasian
+BS-EQ-34-T1-replacement_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+ADIRP0000169_20200604_Frblood_Repertorie_TCRB	COVID-19 Positive	Male	52 Years	Caucasian
+KH20-09971_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+ADIRP0000895_TCRB	COVID-19 Positive	Female	52 Years	Caucasian
+ADIRP0000357_TCRB	COVID-19 Positive	Male	24 Years	Caucasian
+KH20-09982_TCRB	COVID-19 Positive	Female	70 Years	Caucasian
+977-NC-1268_TCRB				
+ADIRP0002497_TCRB	COVID-19 Positive	Female	34 Years	Mixed racial group
+INCOV060-AC-3_TCRB	COVID-19 Positive	Female	39 Years	Unknown racial group
+BS-EQ-0017-T0-replacement_TCRB	COVID-19 Positive	Male	53 Years	Caucasian
+KHBR20-00185_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+BS-EQ-10-T2-replacement_TCRB	COVID-19 Positive	Male	58 Years	Caucasian
+550041250_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+ADIRP0001566_20200625_Unenr_gDNA_ImmunoSEQ_TCRB				Unknown racial group
+1024_TCRB				
+BS-EQ-17-T1b-replacement_TCRB	COVID-19 Positive	Male	53 Years	Caucasian
+860011498_TCRB	COVID-19 Positive	Male	82 Years	Caucasian
+550041314_TCRB	COVID-19 Positive	Female	74 Years	Caucasian
+INCOV036-AC-3_TCRB	COVID-19 Positive	Male	51 Years	Caucasian
+ADIRP0002512_TCRB	COVID-19 Positive	Female	57 Years	Hispanic
+BS-GIGI_42-replacement_TCRB	COVID-19 Positive	Male	49 Years	Caucasian
+ADIRP0000129_TCRB	COVID-19 Positive	Female	38 Years	Caucasian
+KHBR20-00144_TCRB	COVID-19 Positive	Male	74 Years	Caucasian
+BS-HS-61_TCRB				
+INCOV081-AC-3_TCRB	COVID-19 Positive	Male	23 Years	Unknown racial group
+INCOV050-AC-3_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+KH20-09745_TCRB	COVID-19 Positive	Female	83 Years	Caucasian
+860011254_TCRB	COVID-19 Positive	Male	44 Years	Caucasian
+BS-EQ-12-T1-replacement_TCRB	COVID-19 Positive	Male	45 Years	Caucasian
+BS-GIGI_38-replacement_TCRB		Female	58 Years	Caucasian
+KH20-09739_TCRB	COVID-19 Positive	Female	79 Years	Caucasian
+KH20-09729_TCRB	COVID-19 Positive	Female	53 Years	Caucasian
+978-NA-155_TCRB				
+860011133_TCRB	COVID-19 Positive	Female	56 Years	Caucasian
+BS-HS-190_TCRB				
+860011323_TCRB	COVID-19 Positive	Male	58 Years	Caucasian
+ADIRP0000570_TCRB	COVID-19 Positive	Male	65 Years	Caucasian
+BS-HS-16_TCRB				
+ADIRP0000351_TCRB		Male	57 Years	Caucasian
+860011283_TCRB	COVID-19 Positive	Female	86 Years	Caucasian
+KHBR20-00142_TCRB	COVID-19 Positive	Male	67 Years	Caucasian
+KH20-09681_TCRB	COVID-19 Positive	Male	67 Years	Caucasian
+BS-HS-171_TCRB				
+BS-HS-86_TCRB				
+D001005700_20200514_Unenr_immunoSEQ_TCRB	COVID-19 Positive	Female	52 Years	Black or African American
+INCOV080-BL-3_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+INCOV042-AC-3_TCRB	COVID-19 Positive	Female	60 Years	Unknown racial group
+ADIRP0000499_TCRB	COVID-19 Positive	Male	56 Years	Caucasian
+BS-HS-164_TCRB				
+ADIRP0001875_TCRB		Male	64 Years	Caucasian
+BS-HS-82_TCRB				
+INCOV029-AC-3_TCRB	COVID-19 Positive	Female	66 Years	Black or African American
+BS-GIGI_50-replacement_TCRB	COVID-19 Positive	Male	79 Years	Caucasian
+KH20-09708_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+KH20-09692_TCRB	COVID-19 Positive	Female	36 Years	Caucasian
+ADIRP0001296_TCRB	COVID-19 Positive	Female	49 Years	Caucasian
+KHBR20-00188_TCRB	COVID-19 Positive	Male	39 Years	Asian or Pacific Islander
+ADRIP00000961_TCRB	COVID-19 Positive	Male	51 Years	Caucasian
+INCOV052-AC-3_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+BS-HS-121_TCRB				
+eEE225_3_7842BW_20200410_unenriched-1_TCRB	COVID-19 Positive	Female	41 Years	Unknown racial group
+7717BW_unsorted_cc1000000_ImmunRACE_043020_005_gDNA_TCRB	COVID-19 Positive	Male	51 Years	Unknown racial group
+550042361_TCRB	COVID-19 Positive	Male	89 Years	Caucasian
+6123BW_20200416_PBMC_unsorted_cc1000000_ImmunRACE_050820_005_gDNA_TCRB	COVID-19 Positive	Female	66 Years	Unknown racial group
+BS-GIGI_92-replacement_TCRB	COVID-19 Positive	Male	62 Years	Caucasian
+INCOV037-BL-3_TCRB	COVID-19 Positive	Female	70 Years	Black or African American
+BS-GIGI_65-replacement_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+BS-EQ-0024-T0-replacement_TCRB	COVID-19 Positive	Female	54 Years	Caucasian
+KH20-09707_TCRB	COVID-19 Positive	Female	62 Years	Caucasian
+277-SR-664_TCRB				
+INCOV079-BL-3_TCRB	COVID-19 Positive	Female	83 Years	Caucasian
+BS-HS-156_TCRB				
+KH20-09735_TCRB	COVID-19 Positive	Female	86 Years	Caucasian
+BS-GIGI_52-replacement_TCRB	COVID-19 Positive	Male	69 Years	Caucasian
+INCOV007-BL-5_TCRB	COVID-19 Positive	Male	57 Years	Caucasian
+BS-EQ-11-T2-replacement_TCRB	COVID-19 Positive	Male	79 Years	Caucasian
+KH20-10000_TCRB	COVID-19 Positive	Male	55 Years	Caucasian
+860011117_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+BS-HS-65_TCRB				
+INCOV044-BL-3_TCRB	COVID-19 Positive	Female	82 Years	Caucasian
+BS-HS-166_TCRB				
+1002_TCRB				
+860011327_TCRB	COVID-19 Positive	Male	81 Years	Caucasian
+860011281_TCRB	COVID-19 Positive	Male	40 Years	Hispanic
+ADIRP0001278_TCRB	COVID-19 Positive	Female	34 Years	Caucasian
+110047542_TCRB	COVID-19 Positive	Male	61 Years	Black or African American
+BS-GIGI_18-replacement_TCRB	COVID-19 Positive	Female	63 Years	Caucasian
+1054_TCRB				
+KH20-09950_TCRB	COVID-19 Positive	Male	82 Years	Caucasian
+KH20-11639_TCRB	COVID-19 Positive	Female	87 Years	Caucasian
+ADIRP0001958_TCRB	COVID-19 Positive	Male	49 Years	Caucasian
+ADIRP0001268_TCRB	COVID-19 Positive	Female	23 Years	Mixed racial group
+KH20-09677_TCRB	COVID-19 Positive	Female	61 Years	Caucasian
+INCOV074-BL-3_TCRB	COVID-19 Positive	Female	30 Years	Caucasian
+KH20-09712_TCRB	COVID-19 Positive	Female	39 Years	Caucasian
+860011395_TCRB		Female	39 Years	Caucasian
+KHBR20-00203_TCRB	COVID-19 Positive	Male	50 Years	Caucasian
+550042272_TCRB	COVID-19 Positive	Male	47 Years	Caucasian
+BS-GIGI_56-replacement_TCRB	COVID-19 Positive	Male	73 Years	Caucasian
+KHBR20-00161_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+860011289_TCRB	COVID-19 Positive	Male	64 Years	Caucasian
+INCOV016-BL-5_TCRB	COVID-19 Positive	Male	37 Years	Asian or Pacific Islander
+860011106_TCRB	COVID-19 Positive	Female	57 Years	Caucasian
+KH20-09742_TCRB	COVID-19 Positive	Male	58 Years	Caucasian
+550043914_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+BS-HS-0196_TCRB				
+KH20-09755_TCRB	COVID-19 Positive	Male	60 Years	Caucasian
+KH20-09724_TCRB	COVID-19 Positive	Male	65 Years	Caucasian
+KHBR20-00202_TCRB	COVID-19 Positive	Male	39 Years	Asian or Pacific Islander
+ADIRP0000023_TCRB	COVID-19 Positive	Female	31 Years	Caucasian
+BS-GIGI_30-replacement_TCRB		Male	81 Years	Caucasian
+860011128_TCRB	COVID-19 Positive	Female	37 Years	Caucasian
+KHBR20-00131_TCRB	COVID-19 Positive	Male	48 Years	Black or African American
+550042515_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+BS-HS-205_TCRB				
+KHBR20-00170_TCRB	COVID-19 Positive	Male	56 Years	Caucasian
+BS-HS-02_TCRB				
+BS-HS-36_TCRB				
+ADIRP0002065_TCRB	COVID-19 Positive	Male	43 Years	Caucasian
+BS-HS-30_TCRB				
+ADIRP0000447_TCRB		Female	45 Years	Caucasian
+1023_TCRB				
+860011349_TCRB	COVID-19 Positive	Female	53 Years	Caucasian
+INCOV034-BL-3_TCRB	COVID-19 Positive	Male	30 Years	Asian or Pacific Islander
+ADIRP0001903_TCRB	COVID-19 Positive	Male	30 Years	Caucasian
+BS-GIGI_10-replacement_TCRB	COVID-19 Positive	Male	75 Years	Caucasian
+KHBR20-00125_TCRB	COVID-19 Positive	Male	28 Years	Black or African American
+860011214_TCRB	COVID-19 Positive	Female	89 Years	Caucasian
+BS-GIGI_22-replacement_TCRB	COVID-19 Positive	Female	79 Years	Caucasian
+BS-HS-0202_TCRB				
+INCOV044-AC-3_TCRB	COVID-19 Positive	Female	82 Years	Caucasian
+BS-HS-129_TCRB				
+BS-EQ-44-T0_BS-GIGI_11-replacement_TCRB	COVID-19 Positive	Male	77 Years	Caucasian
+BS-HS-39_TCRB				
+1003-BS-445_TCRB				
+KHBR20-00138_TCRB	COVID-19 Positive	Female	82 Years	Caucasian
+860011113_TCRB	COVID-19 Positive	Female	84 Years	Caucasian
+1056_TCRB				
+550042640_TCRB	COVID-19 Positive	Male	78 Years	Caucasian
+INCOV029-BL-3_TCRB	COVID-19 Positive	Female	66 Years	Black or African American
+INCOV076-BL-3_TCRB	COVID-19 Positive	Female	47 Years	Asian or Pacific Islander
+KHBR20-00089_TCRB	COVID-19 Positive	Male	66 Years	Caucasian
+BS-HS-0174_TCRB				
+BS-GIGI_04-replacement_TCRB		Male	72 Years	Caucasian
+KH20-09977_TCRB	COVID-19 Positive	Male	69 Years	Caucasian
+BS-EQ-25-T1_BS-GIGI-71-replacement_TCRB	COVID-19 Positive	Male	72 Years	Caucasian
+KH20-09706_TCRB	COVID-19 Positive	Female	55 Years	Caucasian
+KH20-11677_TCRB	COVID-19 Positive	Female	89 Years	Black or African American
+ADIRP0000289_TCRB	COVID-19 Positive	Female	28 Years	Caucasian
+BS-HS-189_TCRB				
+860011252_TCRB	COVID-19 Positive	Male	35 Years	Caucasian
+1127-BA-739_TCRB				
+ADIRP0001311_TCRB	COVID-19 Positive	Female	36 Years	Caucasian
+860011240_TCRB	COVID-19 Positive	Female	78 Years	Caucasian

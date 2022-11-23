@@ -1,0 +1,271 @@
+Sample	Individual	Timepoint	Disease status	Sex	Age	Patient Location	Who Ordinal Scale	Ethnicity	Race	BMI	Asthma	Cancer	Chronic Hypertension	Cigarette Smoking	Chronic Kidney Disease	Congestive Heart Failure	COPD	Coronary Artery Disease	Diabetes	HIV	Mechanical Ventilation	Respiratory Support	Temperature	Systolic BP
+su_cd4_VDJ_TCR_cd4_1053BW	Healthy_1053BW	not applicable	normal	Female	52					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_1193BW	Healthy_1193BW	not applicable	normal	Female	29					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_2773BW	Healthy_2773BW	not applicable	normal	Female	56					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_2982BW	Healthy_2982BW	not applicable	normal	Female	26					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_3126BW	Healthy_3126BW	not applicable	normal	Male	60					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_3283BW	Healthy_3283BW	not applicable	normal	Female	36					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_3577BW	Healthy_3577BW	not applicable	normal	Male	79					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_5046BW	Healthy_5046BW	not applicable	normal	Female	53					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_6130BW	Healthy_6130BW	not applicable	normal	Male	21					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_7541BW	Healthy_7541BW	not applicable	normal	Female	51					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_BP0219101	Healthy_BP0219101	not applicable	normal	Female	31					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_BP0319250	Healthy_BP0319250	not applicable	normal	Male	39					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_BP05191345	Healthy_BP05191345	not applicable	normal	Male	28					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_BP08191115	Healthy_BP08191115	not applicable	normal	Female	35					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_CL2	Healthy_CL2	not applicable	normal	Female	NA					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_Mix_donor1	Healthy_Mix_donor1	not applicable	normal	Female	NA					NA													NA	NA
+su_cd4_VDJ_TCR_cd4_1_2	INCOV001	T2	COVID-19	Female	77	Hospital	3	NOT Hispanic or Latino	White	33.65778285	No	No	Yes	Never	No	No	No	No	No	No	FALSE	None	36.3	140
+su_cd4_VDJ_TCR_cd4_1_1	INCOV001	T1	COVID-19	Female	77	Hospital	3	NOT Hispanic or Latino	White	33.65778285	No	No	Yes	Never	No	No	No	No	No	No	FALSE	None	36.6	139
+su_cd4_VDJ_TCR_cd4_2_2	INCOV002	T2	COVID-19	Male	39	ICU	7	NOT Hispanic or Latino	White	29.16197168	No	No	No	NA	No	No	No	No	No	No	TRUE	Other	36.8	125
+su_cd4_VDJ_TCR_cd4_2_1	INCOV002	T1	COVID-19	Male	39	ICU	5	NOT Hispanic or Latino	White	27.90074717	No	No	No	NA	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	37.3	96
+su_cd4_VDJ_TCR_cd4_3_2	INCOV003	T2	COVID-19	Male	64	ICU	6	NOT Hispanic or Latino	White	25.68576566	No	No	Yes	Never	Yes	No	No	No	No	No	TRUE	Other	36.8	97
+su_cd4_VDJ_TCR_cd4_3_1	INCOV003	T1	COVID-19	Male	64	ICU	7	NOT Hispanic or Latino	White	24.54698787	No	No	Yes	Never	Yes	No	No	No	No	No	TRUE	Other	37.2	89
+su_cd4_VDJ_TCR_cd4_4_2	INCOV004	T2	COVID-19	Male	76	Hospital	4	NOT Hispanic or Latino	White	23.21578813	No	Yes	No	Former	No	Yes	Yes	Yes	No	No	FALSE	Nasal cannula	36.4	126
+su_cd4_VDJ_TCR_cd4_4_1	INCOV004	T1	COVID-19	Male	76	Hospital	4	NOT Hispanic or Latino	White	23.47762033	No	Yes	No	Former	No	Yes	Yes	Yes	No	No	FALSE	Nasal cannula	36.2	137
+su_cd4_VDJ_TCR_cd4_5_2	INCOV005	T2	COVID-19	Male	75	ICU	5	NOT Hispanic or Latino	White	30.14597866	No	No	Yes	Former	No	No	Yes	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.6	130
+su_cd4_VDJ_TCR_cd4_5_1	INCOV005	T1	COVID-19	Male	75	Hospital	4	NOT Hispanic or Latino	White	29.70312063	No	No	Yes	Former	No	No	Yes	No	No	No	FALSE	Nasal cannula	36.8	126
+su_cd4_VDJ_TCR_cd4_6_2	INCOV006	T2	COVID-19	Male	26	Hospital	3	NOT Hispanic or Latino	Unknown / Not Reported	34.38975627	No	No	No	Never	No	No	No	No	No	No	FALSE	None	36.3	102
+su_cd4_VDJ_TCR_cd4_6_1	INCOV006	T1	COVID-19	Male	26	Hospital	4	NOT Hispanic or Latino	Unknown / Not Reported	34.38975627	No	No	No	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.4	107
+su_cd4_VDJ_TCR_cd4_7_2	INCOV007	T2	COVID-19	Male	57	Hospital	4	NOT Hispanic or Latino	White	23.09188292	No	No	Yes	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.4	117
+su_cd4_VDJ_TCR_cd4_7_1	INCOV007	T1	COVID-19	Male	57	Hospital	4	NOT Hispanic or Latino	White	25.65413294	No	No	Yes	Never	No	No	No	No	No	No	FALSE	Nasal cannula	37.9	99
+su_cd4_VDJ_TCR_cd4_8_1	INCOV008	T1	COVID-19	Male	78	ICU	7	NOT Hispanic or Latino	Black or African American	26.78814307	No	Yes	No	Former	No	No	No	No	No	No	TRUE	Other	37.1	127
+su_cd4_VDJ_TCR_cd4_9_2	INCOV009	T2	COVID-19	Female	65	Hospital	4	NOT Hispanic or Latino	Asian	22.60791161	No	No	No	Never	Yes	No	No	Yes	T2DM	No	FALSE	Nasal cannula	36.4	110
+su_cd4_VDJ_TCR_cd4_9_1	INCOV009	T1	COVID-19	Female	65	Hospital	4	NOT Hispanic or Latino	Asian	23.80951321	No	No	No	Never	Yes	No	No	Yes	T2DM	No	FALSE	Nasal cannula	36.1	129
+su_cd4_VDJ_TCR_cd4_10_2	INCOV010	T2	COVID-19	Female	40	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	Black or African American	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_10_1	INCOV010	T1	COVID-19	Female	40	Hospital	3	NOT Hispanic or Latino	Black or African American	24.84891291	No	No	No	Never	No	No	No	No	No	No	FALSE	None	37	133
+su_cd4_VDJ_TCR_cd4_11_2	INCOV011	T2	COVID-19	Male	89	Hospital	3	NOT Hispanic or Latino	White	17.47257375	No	No	Yes	Never	No	No	No	Yes	No	No	FALSE	None	36.7	137
+su_cd4_VDJ_TCR_cd4_11_1	INCOV011	T1	COVID-19	Male	89	Hospital	3	NOT Hispanic or Latino	White	17.87247421	No	No	Yes	Never	No	No	No	Yes	No	No	FALSE	None	36.6	141
+su_cd4_VDJ_TCR_cd4_12_2	INCOV012	T2	COVID-19	Female	73	Hospital	4	NOT Hispanic or Latino	White	20.46875	No	No	Yes	Never	No	Yes	No	Yes	T2DM	No	FALSE	Nasal cannula	36.6	140
+su_cd4_VDJ_TCR_cd4_12_1	INCOV012	T1	COVID-19	Female	73	Hospital	4	NOT Hispanic or Latino	White	20.46875	No	No	Yes	Never	No	Yes	No	Yes	T2DM	No	FALSE	Nasal cannula	36.3	147
+su_cd4_VDJ_TCR_cd4_13_2	INCOV013	T2	COVID-19	Female	71	ICU	5	Unknown / Not Reported	White	36.79572384	No	No	Yes	Former	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.5	175
+su_cd4_VDJ_TCR_cd4_13_1	INCOV013	T1	COVID-19	Female	71	ICU	7	Unknown / Not Reported	White	36.91999873	No	No	Yes	Former	No	No	No	No	No	No	TRUE	Other	36.9	106
+su_cd4_VDJ_TCR_cd4_14_1	INCOV014	T1	COVID-19	Male	76	Hospital	4	NOT Hispanic or Latino	White	22.42102122	No	No	No	Former	No	No	No	No	No	No	FALSE	Nasal cannula	36.7	100
+su_cd4_VDJ_TCR_cd4_15_2	INCOV015	T2	COVID-19	Female	67	Hospital	5	NOT Hispanic or Latino	Asian	27.12505425	No	No	Yes	Never	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.7	134
+su_cd4_VDJ_TCR_cd4_15_1	INCOV015	T1	COVID-19	Female	67	Hospital	4	NOT Hispanic or Latino	Asian	27.12505425	No	No	Yes	Never	No	No	No	No	No	No	FALSE	Nasal cannula	37	123
+su_cd4_VDJ_TCR_cd4_16_2	INCOV016	T2	COVID-19	Male	37	Hospital	4	NOT Hispanic or Latino	Native Hawaiian or Other Pacific Islander	38.11384591	No	No	No	Former	No	No	No	No	No	No	FALSE	Nasal cannula	36.8	121
+su_cd4_VDJ_TCR_cd4_16_1	INCOV016	T1	COVID-19	Male	37	Hospital	4	NOT Hispanic or Latino	Native Hawaiian or Other Pacific Islander	38.11384591	No	No	No	Former	No	No	No	No	No	No	FALSE	Nasal cannula	38	117
+su_cd4_VDJ_TCR_cd4_17_2	INCOV017	T2	COVID-19	Male	57	Hospital	3	NOT Hispanic or Latino	Asian	25.01233014	No	No	Yes	Never	No	No	No	No	No	No	FALSE	None	37.1	140
+su_cd4_VDJ_TCR_cd4_17_1	INCOV017	T1	COVID-19	Male	57	Hospital	3	NOT Hispanic or Latino	Asian	24.64351562	No	No	Yes	Never	No	No	No	No	No	No	FALSE	None	37.3	140
+su_cd4_VDJ_TCR_cd4_18_2	INCOV018	T2	COVID-19	Male	69	Hospital	3	NOT Hispanic or Latino	White	32.3602688	No	No	Yes	Never	No	Yes	No	No	No	No	FALSE	None	36.5	101
+su_cd4_VDJ_TCR_cd4_18_1	INCOV018	T1	COVID-19	Male	69	Hospital	3	NOT Hispanic or Latino	White	32.61333053	No	No	Yes	Never	No	Yes	No	No	No	No	FALSE	None	36.7	123
+su_cd4_VDJ_TCR_cd4_19_2	INCOV019	T2	COVID-19	Male	81	Hospital	3	NOT Hispanic or Latino	White	27.62572553	No	No	Yes	Former	No	No	No	No	T2DM	No	FALSE	None	36.4	142
+su_cd4_VDJ_TCR_cd4_19_1	INCOV019	T1	COVID-19	Male	81	Hospital	3	NOT Hispanic or Latino	White	27.62572553	No	No	Yes	Former	No	No	No	No	T2DM	No	FALSE	None	36.7	153
+su_cd4_VDJ_TCR_cd4_20_2	INCOV020	T2	COVID-19	Male	55	ICU	6	Hispanic or Latino	Unknown / Not Reported	31.88053713	No	No	No	Former	No	No	No	No	T2DM	No	TRUE	Other	36.8	115
+su_cd4_VDJ_TCR_cd4_20_1	INCOV020	T1	COVID-19	Male	55	ICU	7	Hispanic or Latino	Unknown / Not Reported	33.71486033	No	No	No	Former	No	No	No	No	T2DM	No	TRUE	Other	36.7	99
+su_cd4_VDJ_TCR_cd4_22_2	INCOV022	T2	COVID-19	Female	55	ICU	6	NOT Hispanic or Latino	Black or African American	27.91839903	No	No	Yes	Unknown	No	No	No	No	T2DM	No	TRUE	Other	37.4	105
+su_cd4_VDJ_TCR_cd4_22_1	INCOV022	T1	COVID-19	Female	55	ICU	7	NOT Hispanic or Latino	Black or African American	27.80833964	No	No	Yes	Unknown	No	No	No	No	T2DM	No	TRUE	Other	36.5	128
+su_cd4_VDJ_TCR_cd4_23_2	INCOV023	T2	COVID-19	Female	71	Hospital	3	NOT Hispanic or Latino	Black or African American	33.64845377	No	No	Yes	Never	No	No	No	No	No	No	FALSE	None	37.1	140
+su_cd4_VDJ_TCR_cd4_23_1	INCOV023	T1	COVID-19	Female	71	Hospital	3	NOT Hispanic or Latino	Black or African American	34.60983817	No	No	Yes	Never	No	No	No	No	No	No	FALSE	None	37.1	174
+su_cd4_VDJ_TCR_cd4_24_2	INCOV024	T2	COVID-19	Female	61	Home (mobile phlebotomy)	2	NOT Hispanic or Latino	White	NA	Yes	No	Yes	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_24_1	INCOV024	T1	COVID-19	Female	61	Hospital	3	NOT Hispanic or Latino	White	40.93206281	Yes	No	Yes	Never	No	No	No	No	No	No	FALSE	None	36.4	141
+su_cd4_VDJ_TCR_cd4_25_2	INCOV025	T2	COVID-19	Female	67	ICU	5	NOT Hispanic or Latino	White	27.90503957	No	No	No	Never	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.8	130
+su_cd4_VDJ_TCR_cd4_25_1	INCOV025	T1	COVID-19	Female	67	ICU	5	NOT Hispanic or Latino	White	28.22897867	No	No	No	Never	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.8	121
+su_cd4_VDJ_TCR_cd4_26_2	INCOV026	T2	COVID-19	Male	33	ICU	7	Hispanic or Latino	Unknown / Not Reported	43.80622837	No	No	No	NA	No	No	No	No	No	No	TRUE	Other	36.5	119
+su_cd4_VDJ_TCR_cd4_26_1	INCOV026	T1	COVID-19	Male	33	ICU	7	Hispanic or Latino	Unknown / Not Reported	45.19031142	No	No	No	NA	No	No	No	No	No	No	TRUE	Other	36.5	111
+su_cd4_VDJ_TCR_cd4_27_2	INCOV027	T2	COVID-19	Female	38	Hospital	4	NOT Hispanic or Latino	Asian	39.87513007	Yes	No	No	Never	No	No	No	No	T2DM	No	FALSE	Nasal cannula	36.7	98
+su_cd4_VDJ_TCR_cd4_27_1	INCOV027	T1	COVID-19	Female	38	Hospital	3	NOT Hispanic or Latino	Asian	39.87513007	Yes	No	No	Never	No	No	No	No	T2DM	No	FALSE	None	37.8	126
+su_cd4_VDJ_TCR_cd4_28_2	INCOV028	T2	COVID-19	Male	64	Hospital	3	NOT Hispanic or Latino	Native Hawaiian or Other Pacific Islander	39.62962963	No	No	Yes	Former	Yes	No	No	Yes	T1DM	No	FALSE	None	36.8	137
+su_cd4_VDJ_TCR_cd4_28_1	INCOV028	T1	COVID-19	Male	64	Hospital	3	NOT Hispanic or Latino	Native Hawaiian or Other Pacific Islander	38.7962963	No	No	Yes	Former	Yes	No	No	Yes	T1DM	No	FALSE	None	36.7	121
+su_cd4_VDJ_TCR_cd4_29_2	INCOV029	T2	COVID-19	Female	66	Hospital	4	NOT Hispanic or Latino	Black or African American	36.6796875	No	No	No	Former	Yes	No	Yes	No	No	No	FALSE	Nasal cannula	36.4	113
+su_cd4_VDJ_TCR_cd4_29_1	INCOV029	T1	COVID-19	Female	66	ICU	5	NOT Hispanic or Latino	Black or African American	36.6015625	No	No	No	Former	Yes	No	Yes	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.8	91
+su_cd4_VDJ_TCR_cd4_30_2	INCOV030	T2	COVID-19	Female	86	Hospital	3	NOT Hispanic or Latino	White	25.82967446	No	No	No	Never	No	No	No	No	No	No	FALSE	None	37.2	146
+su_cd4_VDJ_TCR_cd4_30_1	INCOV030	T1	COVID-19	Female	86	Hospital	4	NOT Hispanic or Latino	White	25.90878525	No	No	No	Never	No	No	No	No	No	No	FALSE	Nasal cannula	37	148
+su_cd4_VDJ_TCR_cd4_31_2	INCOV031	T2	COVID-19	Male	47	ICU	6	Hispanic or Latino	Unknown / Not Reported	28.15972796	No	No	Yes	Never	No	No	No	No	No	No	TRUE	Other	37.4	130
+su_cd4_VDJ_TCR_cd4_31_1	INCOV031	T1	COVID-19	Male	47	ICU	6	Hispanic or Latino	Unknown / Not Reported	25.63211647	No	No	Yes	Never	No	No	No	No	No	No	TRUE	Other	37.1	152
+su_cd4_VDJ_TCR_cd4_32_2	INCOV032	T2	COVID-19	Male	63	Hospital	5	Hispanic or Latino	Unknown / Not Reported	34.95935886	No	No	Yes	Never	No	No	No	No	T2DM	No	FALSE	High flow nasal cannula (HFNC)	36.9	115
+su_cd4_VDJ_TCR_cd4_32_1	INCOV032	T1	COVID-19	Male	63	ICU	5	Hispanic or Latino	Unknown / Not Reported	34.1761553	No	No	Yes	Never	No	No	No	No	T2DM	No	FALSE	High flow nasal cannula (HFNC)	36.8	114
+su_cd4_VDJ_TCR_cd4_33_2	INCOV033	T2	COVID-19	Female	88	Hospital	5	NOT Hispanic or Latino	White	26.85449158	No	Yes	Yes	Former	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.3	119
+su_cd4_VDJ_TCR_cd4_33_1	INCOV033	T1	COVID-19	Female	88	Hospital	5	NOT Hispanic or Latino	White	26.85449158	No	Yes	Yes	Former	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	38.2	118
+su_cd4_VDJ_TCR_cd4_34_2	INCOV034	T2	COVID-19	Male	30	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	Asian	NA	No	No	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_34_1	INCOV034	T1	COVID-19	Male	30	Hospital	3	NOT Hispanic or Latino	Asian	40.53854262	No	No	No	Former	No	No	No	No	No	No	FALSE	None	36.7	116
+su_cd4_VDJ_TCR_cd4_35_2	INCOV035	T2	COVID-19	Male	61	ICU	7	NOT Hispanic or Latino	Asian	26.41425401	No	No	Yes	NA	No	No	No	No	T2DM	No	TRUE	Other	38.2	164
+su_cd4_VDJ_TCR_cd4_35_1	INCOV035	T1	COVID-19	Male	61	ICU	7	NOT Hispanic or Latino	Asian	26.96455097	No	No	Yes	NA	No	No	No	No	T2DM	No	TRUE	Other	37.9	175
+su_cd4_VDJ_TCR_cd4_36_2	INCOV036	T2	COVID-19	Male	51	Hospital	6	NOT Hispanic or Latino	White	30.33066787	Yes	No	No	Never	No	No	No	No	No	No	TRUE	Other	36.7	150
+su_cd4_VDJ_TCR_cd4_36_1	INCOV036	T1	COVID-19	Male	51	Hospital	7	NOT Hispanic or Latino	White	29.30816168	Yes	No	No	Never	No	No	No	No	No	No	TRUE	Other	38.2	101
+su_cd4_VDJ_TCR_cd4_39_2	INCOV039	T2	COVID-19	Female	38	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	Yes	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_39_1	INCOV039	T1	COVID-19	Female	38	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	White	NA	No	Yes	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_40_2	INCOV040	T2	COVID-19	Female	76	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_40_1	INCOV040	T1	COVID-19	Female	76	Hospital	3	NOT Hispanic or Latino	White	20.69887669	No	No	No	Never	No	No	No	No	No	No	FALSE	None	36.7	112
+su_cd4_VDJ_TCR_cd4_41_2	INCOV041	T2	COVID-19	Male	65	Hospital	6	NOT Hispanic or Latino	White	33.54938272	No	No	Yes	Never	No	No	No	No	T2DM	No	TRUE	Other	36.8	111
+su_cd4_VDJ_TCR_cd4_41_1	INCOV041	T1	COVID-19	Male	65	Hospital	5	NOT Hispanic or Latino	White	34.87654321	No	No	Yes	Never	No	No	No	No	T2DM	No	FALSE	High flow nasal cannula (HFNC)	37.2	140
+su_cd4_VDJ_TCR_cd4_42_2	INCOV042	T2	COVID-19	Female	60	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Unknown / Not Reported	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_42_1	INCOV042	T1	COVID-19	Female	60	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	Unknown / Not Reported	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_43_2	INCOV043	T2	COVID-19	Male	75	Hospital	3	NOT Hispanic or Latino	White	21.16170061	No	No	Yes	Never	No	No	No	No	T2DM	No	FALSE	None	36.4	123
+su_cd4_VDJ_TCR_cd4_43_1	INCOV043	T1	COVID-19	Male	75	Hospital	3	NOT Hispanic or Latino	White	22.60464351	No	No	Yes	Never	No	No	No	No	T2DM	No	FALSE	None	36.5	110
+su_cd4_VDJ_TCR_cd4_44_2	INCOV044	T2	COVID-19	Female	82	Hospital	4	NOT Hispanic or Latino	White	25.45411566	No	No	Yes	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.3	119
+su_cd4_VDJ_TCR_cd4_44_1	INCOV044	T1	COVID-19	Female	82	Hospital	4	NOT Hispanic or Latino	White	25.45411566	No	No	Yes	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.6	127
+su_cd4_VDJ_TCR_cd4_45_2	INCOV045	T2	COVID-19	Female	48	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_45_1	INCOV045	T1	COVID-19	Female	48	Hospital	4	NOT Hispanic or Latino	White	22.50937639	No	No	No	Never	No	No	No	No	No	No	FALSE	Nasal cannula	37	108
+su_cd4_VDJ_TCR_cd4_47_2	INCOV047	T2	COVID-19	Male	61	ICU	5	NOT Hispanic or Latino	White	34.42220075	No	No	No	Former	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.8	100
+su_cd4_VDJ_TCR_cd4_47_1	INCOV047	T1	COVID-19	Male	61	ICU	5	NOT Hispanic or Latino	White	35.12971694	No	No	No	Former	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	37.1	116
+su_cd4_VDJ_TCR_cd4_48_1	INCOV048	T1	COVID-19	Male	64	ICU	6	NOT Hispanic or Latino	White	23.10545707	No	No	No	Never	No	No	No	No	No	No	TRUE	Other	36.5	119
+su_cd4_VDJ_TCR_cd4_49_2	INCOV049	T2	COVID-19	Male	82	Hospital	3	NOT Hispanic or Latino	White	25.77845848	No	No	Yes	Never	Yes	No	No	Yes	No	No	FALSE	None	37.2	110
+su_cd4_VDJ_TCR_cd4_49_1	INCOV049	T1	COVID-19	Male	82	Hospital	3	NOT Hispanic or Latino	White	25.77845848	No	No	Yes	Never	Yes	No	No	Yes	No	No	FALSE	None	37.1	119
+su_cd4_VDJ_TCR_cd4_50_2	INCOV050	T2	COVID-19	Female	89	Hospital	3	NOT Hispanic or Latino	White	18.28356615	No	Yes	No	Never	No	No	No	No	No	No	FALSE	None	36.4	134
+su_cd4_VDJ_TCR_cd4_50_1	INCOV050	T1	COVID-19	Female	89	Hospital	3	NOT Hispanic or Latino	White	17.72822419	No	Yes	No	Never	No	No	No	No	No	No	FALSE	None	36.3	150
+su_cd4_VDJ_TCR_cd4_51_2	INCOV051	T2	COVID-19	Male	34	ICU	5	Hispanic or Latino	Unknown / Not Reported	29.61560981	No	No	No	Never	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.9	114
+su_cd4_VDJ_TCR_cd4_51_1	INCOV051	T1	COVID-19	Male	34	ICU	5	Hispanic or Latino	Unknown / Not Reported	29.61560981	No	No	No	Never	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	37.2	112
+su_cd4_VDJ_TCR_cd4_52_2	INCOV052	T2	COVID-19	Female	89	Hospital	4	NOT Hispanic or Latino	White	27.82405877	No	No	Yes	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.5	123
+su_cd4_VDJ_TCR_cd4_52_1	INCOV052	T1	COVID-19	Female	89	Hospital	4	NOT Hispanic or Latino	White	28.11386593	No	No	Yes	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.7	167
+su_cd4_VDJ_TCR_cd4_53_2	INCOV053	T2	COVID-19	Male	86	ICU	4	NOT Hispanic or Latino	White	30.85804027	No	No	Yes	Never	No	No	No	No	T2DM	No	FALSE	Nasal cannula	36.7	140
+su_cd4_VDJ_TCR_cd4_53_1	INCOV053	T1	COVID-19	Male	86	ICU	4	NOT Hispanic or Latino	White	30.70582046	No	No	Yes	Never	No	No	No	No	T2DM	No	FALSE	Nasal cannula	36.8	101
+su_cd4_VDJ_TCR_cd4_55_1	INCOV055	T1	COVID-19	Female	67	ICU	3	NOT Hispanic or Latino	White	38.25898038	No	No	Yes	Former	No	No	Yes	No	T2DM	No	FALSE	None	36.4	156
+su_cd4_VDJ_TCR_cd4_56_2	INCOV056	T2	COVID-19	Female	61	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_56_1	INCOV056	T1	COVID-19	Female	61	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_57_2	INCOV057	T2	COVID-19	Female	39	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	T1DM	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_57_1	INCOV057	T1	COVID-19	Female	39	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	T1DM	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_58_2	INCOV058	T2	COVID-19	Female	63	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	Yes	Yes	Former	Yes	No	No	No	T2DM	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_58_1	INCOV058	T1	COVID-19	Female	63	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	Yes	Yes	Former	Yes	No	No	No	T2DM	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_59_2	INCOV059	T2	COVID-19	Female	82	Hospital	3	NOT Hispanic or Latino	White	18.09301567	Yes	Yes	No	Current	No	No	Yes	No	No	No	FALSE	None	36.7	117
+su_cd4_VDJ_TCR_cd4_59_1	INCOV059	T1	COVID-19	Female	82	Hospital	4	NOT Hispanic or Latino	White	17.97846996	Yes	Yes	No	Current	No	No	Yes	No	No	No	FALSE	Nasal cannula	36.7	106
+su_cd4_VDJ_TCR_cd4_60_2	INCOV060	T2	COVID-19	Female	39	Home (mobile phlebotomy)	1 or 2	Unknown / Not Reported	Unknown / Not Reported	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	36.2	NA
+su_cd4_VDJ_TCR_cd4_60_1	INCOV060	T1	COVID-19	Female	39	Home (mobile phlebotomy)	1 or 2	Unknown / Not Reported	Unknown / Not Reported	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_61_2	INCOV061	T2	COVID-19	Female	61	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_61_1	INCOV061	T1	COVID-19	Female	61	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_62_2	INCOV062	T2	COVID-19	Female	77	Hospital	4	NOT Hispanic or Latino	Asian	27.99286694	No	No	Yes	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.6	103
+su_cd4_VDJ_TCR_cd4_62_1	INCOV062	T1	COVID-19	Female	77	Hospital	4	NOT Hispanic or Latino	Asian	29.63950617	No	No	Yes	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.8	124
+su_cd4_VDJ_TCR_cd4_63_2	INCOV063	T2	COVID-19	Female	81	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	Yes	No	Yes	Never	No	No	Yes	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_63_1	INCOV063	T1	COVID-19	Female	81	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	Yes	No	Yes	Never	No	No	Yes	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_66_2	INCOV066	T2	COVID-19	Male	53	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_66_1	INCOV066	T1	COVID-19	Male	53	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_67_2	INCOV067	T2	COVID-19	Female	41	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_67_1	INCOV067	T1	COVID-19	Female	41	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_68_2	INCOV068	T2	COVID-19	Female	66	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	Yes	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_68_1	INCOV068	T1	COVID-19	Female	66	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	Yes	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_69_2	INCOV069	T2	COVID-19	Male	61	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	Yes	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_69_1	INCOV069	T1	COVID-19	Male	61	Hospital	3	NOT Hispanic or Latino	White	31.26369613	No	Yes	No	Never	No	No	No	No	No	No	FALSE	None	36.8	115
+su_cd4_VDJ_TCR_cd4_70_2	INCOV070	T2	COVID-19	Male	42	Clinic	2	Hispanic or Latino	Unknown / Not Reported	31.96603108	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TRUE	Other	37.7	111
+su_cd4_VDJ_TCR_cd4_70_1	INCOV070	T1	COVID-19	Male	42	ICU	6	Hispanic or Latino	Unknown / Not Reported	31.96603108	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TRUE	Other	37.3	128
+su_cd4_VDJ_TCR_cd4_71_2	INCOV071	T2	COVID-19	Female	80	Clinic	1	NOT Hispanic or Latino	White	19.97918835	No	No	No	Never	No	Yes	No	No	No	No	FALSE	Nasal cannula	36.2	137
+su_cd4_VDJ_TCR_cd4_71_1	INCOV071	T1	COVID-19	Female	80	ICU	4	NOT Hispanic or Latino	White	19.16337149	No	No	No	Never	No	Yes	No	No	No	No	FALSE	Nasal cannula	36.8	144
+su_cd4_VDJ_TCR_cd4_72_2	INCOV072	T2	COVID-19	Female	84	Hospital	4	NOT Hispanic or Latino	White	15.68153187	No	No	Yes	Former	Yes	No	Yes	No	No	No	FALSE	Nasal cannula	37.1	105
+su_cd4_VDJ_TCR_cd4_72_1	INCOV072	T1	COVID-19	Female	84	ICU	4	NOT Hispanic or Latino	White	13.86747292	No	No	Yes	Former	Yes	No	Yes	No	No	No	FALSE	Nasal cannula	36.8	129
+su_cd4_VDJ_TCR_cd4_73_2	INCOV073	T2	COVID-19	Female	55	Hospital	3	Hispanic or Latino	Unknown / Not Reported	29.952129	No	No	No	Unknown	No	No	No	No	No	No	FALSE	None	36.2	116
+su_cd4_VDJ_TCR_cd4_73_1	INCOV073	T1	COVID-19	Female	55	Hospital	4	Hispanic or Latino	Unknown / Not Reported	27.99536407	No	No	No	Unknown	No	No	No	No	No	No	FALSE	Nasal cannula	36.5	121
+su_cd4_VDJ_TCR_cd4_74_2	INCOV074	T2	COVID-19	Female	30	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	Yes	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_74_1	INCOV074	T1	COVID-19	Female	30	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	Yes	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_75_2	INCOV075	T2	COVID-19	Male	57	ICU	6	NOT Hispanic or Latino	Asian	24.04844291	No	No	Yes	Never	No	No	No	No	T2DM	No	TRUE	Other	37.2	112
+su_cd4_VDJ_TCR_cd4_75_1	INCOV075	T1	COVID-19	Male	57	ICU	7	NOT Hispanic or Latino	Asian	23.22906574	No	No	Yes	Never	No	No	No	No	T2DM	No	TRUE	Other	37.1	147
+su_cd4_VDJ_TCR_cd4_76_2	INCOV076	T2	COVID-19	Female	47	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Asian	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_76_1	INCOV076	T1	COVID-19	Female	47	Clinic	1 or 2	NOT Hispanic or Latino	Asian	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_77_2	INCOV077	T2	COVID-19	Female	51	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	White	NA	Yes	Yes	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_77_1	INCOV077	T1	COVID-19	Female	51	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	White	NA	Yes	Yes	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_78_2	INCOV078	T2	COVID-19	Female	58	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	More Than One Race	NA	Yes	No	Yes	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_78_1	INCOV078	T1	COVID-19	Female	58	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	More Than One Race	NA	Yes	No	Yes	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_79_2	INCOV079	T2	COVID-19	Female	83	Hospital	4	NOT Hispanic or Latino	White	27.27888903	No	Yes	Yes	Former	No	No	No	No	No	No	FALSE	Nasal cannula	36.7	134
+su_cd4_VDJ_TCR_cd4_79_1	INCOV079	T1	COVID-19	Female	83	Hospital	4	NOT Hispanic or Latino	White	27.27888903	No	Yes	Yes	Former	No	No	No	No	No	No	FALSE	Nasal cannula	36.3	106
+su_cd4_VDJ_TCR_cd4_80_2	INCOV080	T2	COVID-19	Male	66	Hospital	4	Hispanic or Latino	White	27.61664234	No	No	Yes	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.7	122
+su_cd4_VDJ_TCR_cd4_80_1	INCOV080	T1	COVID-19	Male	66	ICU	4	Hispanic or Latino	White	28.96295366	No	No	Yes	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.6	132
+su_cd4_VDJ_TCR_cd4_81_2	INCOV081	T2	COVID-19	Male	23	Home (mobile phlebotomy)	1 or 2	Hispanic or Latino	Unknown / Not Reported	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_81_1	INCOV081	T1	COVID-19	Male	23	Home (mobile phlebotomy)	1 or 2	Hispanic or Latino	Unknown / Not Reported	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_82_2	INCOV082	T2	COVID-19	Female	60	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	Yes	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_82_1	INCOV082	T1	COVID-19	Female	60	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	Yes	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_83_2	INCOV083	T2	COVID-19	Female	42	Clinic	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_83_1	INCOV083	T1	COVID-19	Female	42	Clinic	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_86_2	INCOV086	T2	COVID-19	Male	71	ICU	5	NOT Hispanic or Latino	White	17.50204708	No	Yes	No	Former	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.8	143
+su_cd4_VDJ_TCR_cd4_86_1	INCOV086	T1	COVID-19	Male	71	ICU	5	NOT Hispanic or Latino	White	18.50315037	No	Yes	No	Former	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.6	119
+su_cd4_VDJ_TCR_cd4_87_2	INCOV087	T2	COVID-19	Male	56	ICU	4	Hispanic or Latino	Unknown / Not Reported	27.19323098	No	No	No	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.3	121
+su_cd4_VDJ_TCR_cd4_87_1	INCOV087	T1	COVID-19	Male	56	ICU	5	Hispanic or Latino	Unknown / Not Reported	27.19323098	No	No	No	Never	No	No	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	37.2	132
+su_cd4_VDJ_TCR_cd4_88_2	INCOV088	T2	COVID-19	Male	24	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	Yes	No	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_88_1	INCOV088	T1	COVID-19	Male	24	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	White	NA	Yes	No	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_90_2	INCOV090	T2	COVID-19	Female	69	Hospital	4	NOT Hispanic or Latino	White	37.578125	No	No	No	Former	Yes	No	No	No	T2DM	No	FALSE	Nasal cannula	37.1	133
+su_cd4_VDJ_TCR_cd4_90_1	INCOV090	T1	COVID-19	Female	69	Hospital	4	NOT Hispanic or Latino	White	38.125	No	No	No	Former	Yes	No	No	No	T2DM	No	FALSE	Nasal cannula	37.6	146
+su_cd4_VDJ_TCR_cd4_91_2	INCOV091	T2	COVID-19	Male	81	Hospital	3	NOT Hispanic or Latino	Asian	27.34621442	No	No	Yes	Never	No	No	No	No	T2DM	No	FALSE	None	36.6	151
+su_cd4_VDJ_TCR_cd4_91_1	INCOV091	T1	COVID-19	Male	81	Hospital	4	NOT Hispanic or Latino	Asian	28.63220514	No	No	Yes	Never	No	No	No	No	T2DM	No	FALSE	Nasal cannula	36.6	101
+su_cd4_VDJ_TCR_cd4_92_2	INCOV092	T2	COVID-19	Female	75	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	Yes	Yes	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_92_1	INCOV092	T1	COVID-19	Female	75	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	Yes	Yes	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_93_2	INCOV093	T2	COVID-19	Male	66	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	Yes	No	Yes	Former	No	No	No	No	T2DM	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_93_1	INCOV093	T1	COVID-19	Male	66	Hospital	3	NOT Hispanic or Latino	White	27.75421288	Yes	No	Yes	Former	No	No	No	No	T2DM	No	FALSE	None	36.9	150
+su_cd4_VDJ_TCR_cd4_94_2	INCOV094	T2	COVID-19	Female	38	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_94_1	INCOV094	T1	COVID-19	Female	38	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_96_2	INCOV096	T2	COVID-19	Male	72	ICU	6	NOT Hispanic or Latino	White	32.60726791	No	Yes	Yes	Former	No	No	No	No	T2DM	No	TRUE	Other	36.1	104
+su_cd4_VDJ_TCR_cd4_96_1	INCOV096	T1	COVID-19	Male	72	ICU	6	NOT Hispanic or Latino	White	32.82259893	No	Yes	Yes	Former	No	No	No	No	T2DM	No	TRUE	Other	37.2	92
+su_cd4_VDJ_TCR_cd4_97_2	INCOV097	T2	COVID-19	Female	26	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Asian	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_97_1	INCOV097	T1	COVID-19	Female	26	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Asian	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_98_2	INCOV098	T2	COVID-19	Female	50	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	American Indian/Alaska Native	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_98_1	INCOV098	T1	COVID-19	Female	50	Hospital	3	NOT Hispanic or Latino	American Indian/Alaska Native	43.79933098	No	No	No	Never	No	No	No	No	No	No	FALSE	None	36.5	137
+su_cd4_VDJ_TCR_cd4_100_2	INCOV100	T2	COVID-19	Female	32	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Asian	NA	Yes	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_100_1	INCOV100	T1	COVID-19	Female	32	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Asian	NA	Yes	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_101_2	INCOV101	T2	COVID-19	Female	19	Home (mobile phlebotomy)	1 or 2	Hispanic or Latino	White	NA	Yes	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_101_1	INCOV101	T1	COVID-19	Female	19	Clinic	1 or 2	Hispanic or Latino	White	NA	Yes	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_102_2	INCOV102	T2	COVID-19	Female	55	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_102_1	INCOV102	T1	COVID-19	Female	55	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_103_2	INCOV103	T2	COVID-19	Female	25	Home (mobile phlebotomy)	1 or 2	Hispanic or Latino	White	NA	No	No	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_103_1	INCOV103	T1	COVID-19	Female	25	Home (mobile phlebotomy)	1 or 2	Hispanic or Latino	White	NA	No	No	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_104_2	INCOV104	T2	COVID-19	Female	32	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Unknown / Not Reported	NA	Yes	No	No	Never	No	No	No	No	T2DM	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_104_1	INCOV104	T1	COVID-19	Female	32	Hospital	3	NOT Hispanic or Latino	Unknown / Not Reported	29.79087931	Yes	No	No	Never	No	No	No	No	T2DM	No	FALSE	None	37.2	110
+su_cd4_VDJ_TCR_cd4_105_2	INCOV105	T2	COVID-19	Female	27	Clinic	1 or 2	Hispanic or Latino	Unknown / Not Reported	NA	Yes	No	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_105_1	INCOV105	T1	COVID-19	Female	27	Hospital	4	Hispanic or Latino	Unknown / Not Reported	40.59460821	Yes	No	No	Former	No	No	No	No	No	No	FALSE	Nasal cannula	36.6	107
+su_cd4_VDJ_TCR_cd4_106_2	INCOV106	T2	COVID-19	Female	81	ICU	7	NOT Hispanic or Latino	American Indian/Alaska Native	24.52157342	No	No	No	Never	No	No	No	No	No	No	TRUE	Other	37.2	126
+su_cd4_VDJ_TCR_cd4_106_1	INCOV106	T1	COVID-19	Female	81	ICU	7	NOT Hispanic or Latino	American Indian/Alaska Native	24.16554332	No	No	No	Never	No	No	No	No	No	No	TRUE	Other	37.1	97
+su_cd4_VDJ_TCR_cd4_107_2	INCOV107	T2	COVID-19	Male	71	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	Yes	Former	No	No	No	Yes	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_107_1	INCOV107	T1	COVID-19	Male	71	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	Yes	Former	No	No	No	Yes	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_108_2	INCOV108	T2	COVID-19	Male	57	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	Yes	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_108_1	INCOV108	T1	COVID-19	Male	57	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	White	27.72020475	No	No	Yes	Former	No	No	No	No	No	No	FALSE	None	36.8	128
+su_cd4_VDJ_TCR_cd4_109_2	INCOV109	T2	COVID-19	Female	36	Home (mobile phlebotomy)	1 or 2	Unknown / Not Reported	White	NA	No	No	No	Never	No	No	No	No	Other	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_109_1	INCOV109	T1	COVID-19	Female	36	Home (mobile phlebotomy)	1 or 2	Unknown / Not Reported	White	NA	No	No	No	Never	No	No	No	No	Other	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_110_2	INCOV110	T2	COVID-19	Female	41	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Native Hawaiian or Other Pacific Islander	NA	Yes	No	No	Current	No	No	No	No	Other	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_110_1	INCOV110	T1	COVID-19	Female	41	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Native Hawaiian or Other Pacific Islander	NA	Yes	No	No	Current	No	No	No	No	Other	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_111_2	INCOV111	T2	COVID-19	Male	28	ICU	4	NOT Hispanic or Latino	Native Hawaiian or Other Pacific Islander	48.54657706	No	No	No	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.7	130
+su_cd4_VDJ_TCR_cd4_111_1	INCOV111	T1	COVID-19	Male	28	ICU	4	NOT Hispanic or Latino	Native Hawaiian or Other Pacific Islander	49.56294629	No	No	No	Never	No	No	No	No	No	No	FALSE	Nasal cannula	37	100
+su_cd4_VDJ_TCR_cd4_112_2	INCOV112	T2	COVID-19	Male	32	Home (mobile phlebotomy)	1 or 2	Unknown / Not Reported	Unknown / Not Reported	NA	No	No	No	NA	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_112_1	INCOV112	T1	COVID-19	Male	32	Home (mobile phlebotomy)	1 or 2	Unknown / Not Reported	Unknown / Not Reported	NA	No	No	No	NA	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_113_2	INCOV113	T2	COVID-19	Female	33	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_113_1	INCOV113	T1	COVID-19	Female	33	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_114_2	INCOV114	T2	COVID-19	Female	32	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	White	40.46901137	No	No	No	Never	No	No	No	No	No	No	FALSE	None	37.2	144
+su_cd4_VDJ_TCR_cd4_114_1	INCOV114	T1	COVID-19	Female	32	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	39.26198203	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_115_2	INCOV115	T2	COVID-19	Male	69	Hospital	3	NOT Hispanic or Latino	White	32.49392196	No	Yes	No	Never	No	No	No	No	No	No	FALSE	None	36.6	125
+su_cd4_VDJ_TCR_cd4_115_1	INCOV115	T1	COVID-19	Male	69	ICU	3	NOT Hispanic or Latino	White	32.49392196	No	Yes	No	Never	No	No	No	No	No	No	FALSE	None	37	155
+su_cd4_VDJ_TCR_cd4_116_2	INCOV116	T2	COVID-19	Female	27	Home (mobile phlebotomy)	1 or 2	Unknown / Not Reported	Unknown / Not Reported	NA	Yes	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_116_1	INCOV116	T1	COVID-19	Female	27	Home (mobile phlebotomy)	1 or 2	Unknown / Not Reported	Unknown / Not Reported	NA	Yes	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_117_2	INCOV117	T2	COVID-19	Male	39	Hospital	4	Hispanic or Latino	Unknown / Not Reported	20.51796953	No	No	Yes	Never	No	No	No	No	T2DM	No	FALSE	Nasal cannula	36.8	121
+su_cd4_VDJ_TCR_cd4_117_1	INCOV117	T1	COVID-19	Male	39	Hospital	4	Hispanic or Latino	Unknown / Not Reported	30.51548092	No	No	Yes	Never	No	No	No	No	T2DM	No	FALSE	Nasal cannula	36.8	119
+su_cd4_VDJ_TCR_cd4_119_2	INCOV119	T2	COVID-19	Female	53	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	Black or African American	NA	No	No	Yes	NA	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_119_1	INCOV119	T1	COVID-19	Female	53	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Black or African American	NA	No	No	Yes	NA	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_120_2	INCOV120	T2	COVID-19	Female	26	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Current	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_120_1	INCOV120	T1	COVID-19	Female	26	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Current	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_121_2	INCOV121	T2	COVID-19	Female	86	Hospital	4	NOT Hispanic or Latino	White	21.85849933	No	No	Yes	Former	No	Yes	No	No	T2DM	No	FALSE	Nasal cannula	36.3	119
+su_cd4_VDJ_TCR_cd4_121_1	INCOV121	T1	COVID-19	Female	86	Hospital	4	NOT Hispanic or Latino	White	21.50249771	No	No	Yes	Former	No	Yes	No	No	T2DM	No	FALSE	Nasal cannula	35.6	106
+su_cd4_VDJ_TCR_cd4_122_2	INCOV122	T2	COVID-19	Female	53	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Asian	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_122_1	INCOV122	T1	COVID-19	Female	53	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Asian	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_123_2	INCOV123	T2	COVID-19	Female	42	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_123_1	INCOV123	T1	COVID-19	Female	42	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_124_2	INCOV124	T2	COVID-19	Male	48	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Asian	NA	No	No	Yes	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_124_1	INCOV124	T1	COVID-19	Male	48	Hospital	4	NOT Hispanic or Latino	Asian	28.40617926	No	No	Yes	Never	No	No	No	No	No	No	FALSE	Nasal cannula	36.7	106
+su_cd4_VDJ_TCR_cd4_125_2	INCOV125	T2	COVID-19	Male	50	Hospital	3	NOT Hispanic or Latino	Asian	25.16931437	No	No	Yes	Former	No	No	No	No	No	No	FALSE	None	37	112
+su_cd4_VDJ_TCR_cd4_125_1	INCOV125	T1	COVID-19	Male	50	Hospital	4	NOT Hispanic or Latino	Asian	24.4929113	No	No	Yes	Former	No	No	No	No	No	No	FALSE	Nasal cannula	36.6	107
+su_cd4_VDJ_TCR_cd4_126_2	INCOV126	T2	COVID-19	Female	36	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_126_1	INCOV126	T1	COVID-19	Female	36	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_127_2	INCOV127	T2	COVID-19	Male	63	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Current	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_127_1	INCOV127	T1	COVID-19	Male	63	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Current	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_128_2	INCOV128	T2	COVID-19	Female	62	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	Yes	Yes	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_128_1	INCOV128	T1	COVID-19	Female	62	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	White	NA	No	Yes	Yes	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_129_2	INCOV129	T2	COVID-19	Male	27	#N/A	#N/A	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	#N/A	#N/A	NA	NA
+su_cd4_VDJ_TCR_cd4_129_1	INCOV129	T1	COVID-19	Male	27	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_130_2	INCOV130	T2	COVID-19	Male	44	Hospital	3	NOT Hispanic or Latino	White	22.895771	No	No	Yes	Former	No	Yes	No	No	No	No	FALSE	None	36.5	104
+su_cd4_VDJ_TCR_cd4_130_1	INCOV130	T1	COVID-19	Male	44	ICU	4	NOT Hispanic or Latino	White	25.6595553	No	No	Yes	Former	No	Yes	No	No	No	No	FALSE	Nasal cannula	36.8	84
+su_cd4_VDJ_TCR_cd4_131_2	INCOV131	T2	COVID-19	Female	55	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	Yes	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_131_1	INCOV131	T1	COVID-19	Female	55	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	Yes	No	Former	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_132_2	INCOV132	T2	COVID-19	Female	37	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	Black or African American	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_132_1	INCOV132	T1	COVID-19	Female	37	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Black or African American	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_133_2	INCOV133	T2	COVID-19	Female	63	Hospital	4	NOT Hispanic or Latino	Black or African American	29.34268249	No	No	Yes	Former	No	No	No	No	No	No	FALSE	Nasal cannula	36.99	121
+su_cd4_VDJ_TCR_cd4_133_1	INCOV133	T1	COVID-19	Female	63	Hospital	4	NOT Hispanic or Latino	Black or African American	29.4462449	No	No	Yes	Former	No	No	No	No	No	No	FALSE	Nasal cannula	36.4	109
+su_cd4_VDJ_TCR_cd4_134_2	INCOV134	T2	COVID-19	Female	28	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	Black or African American	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_134_1	INCOV134	T1	COVID-19	Female	28	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	Black or African American	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_135_2	INCOV135	T2	COVID-19	Female	50	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_135_1	INCOV135	T1	COVID-19	Female	50	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	No	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_136_2	INCOV136	T2	COVID-19	Female	42	Hospital	3	Hispanic or Latino	Unknown / Not Reported	56.10150109	No	No	No	Never	No	No	No	No	T2DM	No	FALSE	None	36.4	113
+su_cd4_VDJ_TCR_cd4_136_1	INCOV136	T1	COVID-19	Female	42	Hospital	4	Hispanic or Latino	Unknown / Not Reported	56.05844545	No	No	No	Never	No	No	No	No	T2DM	No	FALSE	Nasal cannula	36.9	110
+su_cd4_VDJ_TCR_cd4_137_2	INCOV137	T2	COVID-19	Male	53	ICU	3	NOT Hispanic or Latino	Black or African American	55.5521111	No	No	Yes	Former	No	No	No	No	T2DM	No	FALSE	None	36.9	154
+su_cd4_VDJ_TCR_cd4_137_1	INCOV137	T1	COVID-19	Male	53	ICU	5	NOT Hispanic or Latino	Black or African American	54.44988668	No	No	Yes	Former	No	No	No	No	T2DM	No	FALSE	High flow nasal cannula (HFNC)	36.5	143
+su_cd4_VDJ_TCR_cd4_141_2	INCOV141	T2	COVID-19	Male	31	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	White	NA	No	No	Yes	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_141_1	INCOV141	T1	COVID-19	Male	31	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	White	26.57506589	No	No	Yes	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_142_2	INCOV142	T2	COVID-19	Male	64	Hospital	5	NOT Hispanic or Latino	Asian	28.66694674	No	No	Yes	Former	No	Yes	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.7	134
+su_cd4_VDJ_TCR_cd4_142_1	INCOV142	T1	COVID-19	Male	64	ICU	5	NOT Hispanic or Latino	Asian	30.98041964	No	No	Yes	Former	No	Yes	No	No	No	No	FALSE	High flow nasal cannula (HFNC)	36.2	104
+su_cd4_VDJ_TCR_cd4_144_2	INCOV144	T2	COVID-19	Female	67	Home (mobile phlebotomy)	1	NOT Hispanic or Latino	White	NA	No	Yes	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_144_1	INCOV144	T1	COVID-19	Female	67	Home (mobile phlebotomy)	1 or 2	NOT Hispanic or Latino	White	NA	No	Yes	No	Never	No	No	No	No	No	No	FALSE	None	NA	NA
+su_cd4_VDJ_TCR_cd4_145_2	INCOV145	T2	COVID-19	Male	55	Hospital	4	NOT Hispanic or Latino	White	35.33374414	No	No	Yes	Former	Yes	No	No	No	T2DM	No	FALSE	Nasal cannula	36.7	146
+su_cd4_VDJ_TCR_cd4_145_1	INCOV145	T1	COVID-19	Male	55	Hospital	4	NOT Hispanic or Latino	White	35.87150031	No	No	Yes	Former	Yes	No	No	No	T2DM	No	FALSE	Nasal cannula	36.9	148
+su_cd4_VDJ_TCR_cd4_147_2	INCOV147	T2	COVID-19	Female	62	Clinic	2	NOT Hispanic or Latino	White	33.96681088	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TRUE	Other	37.8	115
+su_cd4_VDJ_TCR_cd4_147_1	INCOV147	T1	COVID-19	Female	62	ICU	6	NOT Hispanic or Latino	White	36.5924662	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	TRUE	Other	37.7	152
