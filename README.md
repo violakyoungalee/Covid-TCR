@@ -7,6 +7,7 @@ Code and analysis for the manuscript "Machine learning identifies T cell recepto
 ## Project Structure
 ```
 .
+├── Standardized Data
 ├── Data preprocessing scripts
 ├── Immune repertoire statistics scripts
 ├── Kmer analysis scripts
