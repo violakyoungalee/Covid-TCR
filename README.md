@@ -11,8 +11,6 @@ Code and analysis for the manuscript "Machine learning identifies T cell recepto
 ├── Data preprocessing scripts
 |   |-- Overarching preprocessing R script
 |   |-- Dataset-specific preprocessing files
-|   |-- Normalization: all features
-|   `-- Normalization: VDJtools
 ├── Immune repertoire statistics scripts
 |   |-- Clonal proportions
 |   |-- Immunarch analyses
